@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_ec911e2bc7fbfc3fba9b9bde50fc1fb4" kind="dir">
+    <compoundname>C:/Coursework/Coursework/Coursework/ORM</compoundname>
+    <innerfile refid="_database_manager_8cs">DatabaseManager.cs</innerfile>
+    <innerfile refid="_i_database_8cs">IDatabase.cs</innerfile>
+    <innerfile refid="_i_database2_8cs">IDatabase2.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework/ORM/"/>
+  </compounddef>
+</doxygen>

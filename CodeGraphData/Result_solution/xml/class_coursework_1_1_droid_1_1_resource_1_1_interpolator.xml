@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_droid_1_1_resource_1_1_interpolator" kind="class" prot="public">
+    <compoundname>Coursework::Droid::Resource::Interpolator</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_interpolator_1aff6af570a9b0b3cb7e32dc7f51c06600" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Interpolator.mr_fast_out_slow_in</definition>
+        <argsstring></argsstring>
+        <name>mr_fast_out_slow_in</name>
+        <initializer>= 2131165184</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="5764" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="5764" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_interpolator_1aa473888b29a4dd8db14b511d86a822ad" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Interpolator.mr_linear_out_slow_in</definition>
+        <argsstring></argsstring>
+        <name>mr_linear_out_slow_in</name>
+        <initializer>= 2131165185</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="5767" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="5767" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_resource_1_1_interpolator_1a0788bd807c412f009c6319a250240910" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>static</type>
+        <definition>static Coursework.Droid.Resource.Interpolator.Interpolator</definition>
+        <argsstring>()</argsstring>
+        <name>Interpolator</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="5769" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="5769" bodyend="5772"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_resource_1_1_interpolator_1abd14b04fd68bc78f290adbf59c1f8842" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.Droid.Resource.Interpolator.Interpolator</definition>
+        <argsstring>()</argsstring>
+        <name>Interpolator</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="5774" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="5774" bodyend="5776"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="5761" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="5760" bodyend="5777"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_interpolator_1a0788bd807c412f009c6319a250240910" prot="private" virt="non-virtual"><scope>Coursework::Droid::Resource::Interpolator</scope><name>Interpolator</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_interpolator_1abd14b04fd68bc78f290adbf59c1f8842" prot="private" virt="non-virtual"><scope>Coursework::Droid::Resource::Interpolator</scope><name>Interpolator</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_interpolator_1aff6af570a9b0b3cb7e32dc7f51c06600" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Interpolator</scope><name>mr_fast_out_slow_in</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_interpolator_1aa473888b29a4dd8db14b511d86a822ad" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Interpolator</scope><name>mr_linear_out_slow_in</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_coursework_1_1_view" kind="namespace">
+    <compoundname>Coursework::View</compoundname>
+    <innerclass refid="class_coursework_1_1_view_1_1_const_list_view" prot="public">Coursework::View::ConstListView</innerclass>
+    <innerclass refid="class_coursework_1_1_view_1_1_const_page" prot="public">Coursework::View::ConstPage</innerclass>
+    <innerclass refid="class_coursework_1_1_view_1_1_device_info" prot="public">Coursework::View::DeviceInfo</innerclass>
+    <innerclass refid="class_coursework_1_1_view_1_1_master_detail_main_page" prot="public">Coursework::View::MasterDetailMainPage</innerclass>
+    <innerclass refid="class_coursework_1_1_view_1_1_master_detail_main_page_detail" prot="public">Coursework::View::MasterDetailMainPageDetail</innerclass>
+    <innerclass refid="class_coursework_1_1_view_1_1_master_detail_main_page_master" prot="public">Coursework::View::MasterDetailMainPageMaster</innerclass>
+    <innerclass refid="class_coursework_1_1_view_1_1_master_detail_main_page_menu_item" prot="public">Coursework::View::MasterDetailMainPageMenuItem</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework/View/ConstListView.xaml.cs" line="17" column="1"/>
+  </compounddef>
+</doxygen>

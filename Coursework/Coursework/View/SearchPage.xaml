@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:viewmodel="clr-namespace:Coursework.ViewModel"
+             x:Class="Coursework.View.SearchPage">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <ListView x:Name="constView"  RowHeight="340" ItemSelected="ConstListView_ItemSelected"  
+                  SeparatorVisibility="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Frame Padding="4" Margin="4" BorderColor="#E1E1E1" CornerRadius="3">
+
+                                <StackLayout Orientation="Vertical" Margin="4" >
+
+                                    <ffimageloading:CachedImage  LoadingPlaceholder="..."  DownsampleToViewSize="True"  Source="{Binding Image}" Aspect="AspectFill" HeightRequest="250"/>
+
+                                    <Grid>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto" />
+                                            <RowDefinition Height="Auto" />
+                                        </Grid.RowDefinitions>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*" />
+                                        </Grid.ColumnDefinitions>
+                                        <viewmodel:CustomLabel  Text="{Binding Name}" HorizontalOptions="FillAndExpand" MaxLines="2" LineBreakMode="WordWrap" 
+                                       Grid.Row="0" Grid.Column="0"/>
+                                        <viewmodel:CustomLabel  Text="{Binding Address}" Grid.Row="1" Grid.Column="0"/>
+                                    </Grid>
+
+                                </StackLayout>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                <ListView.Header>
+                    <Frame x:Name="searchFrame" BorderColor="#E1E1E1" CornerRadius="3" Margin="4" >
+                        <StackLayout x:Name="searchLayout" Spacing="2"  Padding="3" Orientation="Vertical">
+                            <viewmodel:CustomLabel  Text="{Binding Resources[NameWithDots]}" />
+                            <Entry x:Name="entryName" Text=""/>
+                            <viewmodel:CustomLabel  Text="{Binding Resources[AddressWithDots]}"/>
+                            <Entry x:Name="entryAddress" Text=""/>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="70*" />
+                                    <ColumnDefinition Width="30*" />
+                                </Grid.ColumnDefinitions>
+                                <Button Text="{Binding Resources[Reset]}" 
+                                HeightRequest="35"
+                                WidthRequest="100"
+                                Grid.Row="0" Grid.Column="0"
+                                HorizontalOptions="Start"
+                                Clicked="Cancel_Clicked"/>
+                                <Button Text="{Binding Resources[Search]}" 
+                                HeightRequest="35"
+                                WidthRequest="100"
+                                Grid.Row="0" Grid.Column="1"
+                                HorizontalOptions="End"
+                                Clicked="Search_Clicked"/>
+                            </Grid>
+
+                        </StackLayout>
+                    </Frame>
+                </ListView.Header>
+                <ListView.Footer>
+                    <viewmodel:CustomLabel  x:Name="emptyLabel" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                   FontSize="28" HeightRequest="0" IsVisible="False"/>
+                </ListView.Footer>
+            </ListView>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

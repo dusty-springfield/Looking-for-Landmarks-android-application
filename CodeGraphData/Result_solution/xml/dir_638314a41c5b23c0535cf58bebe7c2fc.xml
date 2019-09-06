@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_638314a41c5b23c0535cf58bebe7c2fc" kind="dir">
+    <compoundname>C:/Coursework/Coursework/Coursework/View</compoundname>
+    <innerfile refid="_const_list_view_8xaml_8cs">ConstListView.xaml.cs</innerfile>
+    <innerfile refid="_const_page_8xaml_8cs">ConstPage.xaml.cs</innerfile>
+    <innerfile refid="_device_info_8cs">DeviceInfo.cs</innerfile>
+    <innerfile refid="_master_detail_main_page_8xaml_8cs">MasterDetailMainPage.xaml.cs</innerfile>
+    <innerfile refid="_master_detail_main_page_detail_8xaml_8cs">MasterDetailMainPageDetail.xaml.cs</innerfile>
+    <innerfile refid="_master_detail_main_page_master_8xaml_8cs">MasterDetailMainPageMaster.xaml.cs</innerfile>
+    <innerfile refid="_master_detail_main_page_menu_item_8cs">MasterDetailMainPageMenuItem.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework/View/"/>
+  </compounddef>
+</doxygen>

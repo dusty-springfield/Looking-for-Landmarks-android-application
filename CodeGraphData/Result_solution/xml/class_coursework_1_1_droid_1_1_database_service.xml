@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_droid_1_1_database_service" kind="class" prot="public">
+    <compoundname>Coursework::Droid::DatabaseService</compoundname>
+    <basecompoundref refid="interface_coursework_1_1_o_r_m_1_1_i_database" prot="public" virt="non-virtual">Coursework.ORM.IDatabase</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_database_service_1a0897fad0d053e8ee4e8c834f5d811d3b" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.Droid.DatabaseService.DatabaseService</definition>
+        <argsstring>()</argsstring>
+        <name>DatabaseService</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/DatabaseService.cs" line="21" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/DatabaseService.cs" bodystart="21" bodyend="23"/>
+      </memberdef>
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_database_service_1a021f22ec0d6e72cc4ed037a5ec4d4d31" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>SQLite.Net.SQLiteConnection</type>
+        <definition>SQLite.Net.SQLiteConnection Coursework.Droid.DatabaseService.CreateConnection</definition>
+        <argsstring>()</argsstring>
+        <name>CreateConnection</name>
+        <reimplements refid="interface_coursework_1_1_o_r_m_1_1_i_database_1abdfca21d76a9b50e791f3fcd79e8f058">CreateConnection</reimplements>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/DatabaseService.cs" line="25" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/DatabaseService.cs" bodystart="25" bodyend="51"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_database_service_1afd0d5993254777c042a236cd4af57fd2" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Coursework.Droid.DatabaseService.ReadWriteStream</definition>
+        <argsstring>(Stream readStream, Stream writeStream)</argsstring>
+        <name>ReadWriteStream</name>
+        <param>
+          <type>Stream</type>
+          <declname>readStream</declname>
+        </param>
+        <param>
+          <type>Stream</type>
+          <declname>writeStream</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/DatabaseService.cs" line="53" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/DatabaseService.cs" bodystart="53" bodyend="65"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="36">
+        <label>IDatabase</label>
+        <link refid="interface_coursework_1_1_o_r_m_1_1_i_database"/>
+      </node>
+      <node id="35">
+        <label>Coursework.Droid.DatabaseService</label>
+        <link refid="class_coursework_1_1_droid_1_1_database_service"/>
+        <childnode refid="36" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="38">
+        <label>IDatabase</label>
+        <link refid="interface_coursework_1_1_o_r_m_1_1_i_database"/>
+      </node>
+      <node id="37">
+        <label>Coursework.Droid.DatabaseService</label>
+        <link refid="class_coursework_1_1_droid_1_1_database_service"/>
+        <childnode refid="38" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Coursework/Coursework/Coursework.Android/DatabaseService.cs" line="20" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/DatabaseService.cs" bodystart="19" bodyend="66"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_droid_1_1_database_service_1a021f22ec0d6e72cc4ed037a5ec4d4d31" prot="public" virt="non-virtual"><scope>Coursework::Droid::DatabaseService</scope><name>CreateConnection</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_database_service_1a0897fad0d053e8ee4e8c834f5d811d3b" prot="public" virt="non-virtual"><scope>Coursework::Droid::DatabaseService</scope><name>DatabaseService</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_database_service_1afd0d5993254777c042a236cd4af57fd2" prot="private" virt="non-virtual"><scope>Coursework::Droid::DatabaseService</scope><name>ReadWriteStream</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_view_model_1_1_construction" kind="class" prot="public">
+    <compoundname>Coursework::ViewModel::Construction</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">IComparable</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_construction_1a9b9b179b4f1f7a0b1070f96cbbba4d74" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>int</type>
+        <definition>int Coursework.ViewModel.Construction.Id</definition>
+        <argsstring></argsstring>
+        <name>Id</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="11" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_construction_1ace2e1da62955c6a9b11f62c5a1d786a6" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Coursework.ViewModel.Construction.Name</definition>
+        <argsstring></argsstring>
+        <name>Name</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="12" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_construction_1a7ed24769539e06f9bccff95578623542" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Coursework.ViewModel.Construction.Address</definition>
+        <argsstring></argsstring>
+        <name>Address</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="13" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="13" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_construction_1af60a4d1007c284eab40e99c79c81b131" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Coursework.ViewModel.Construction.Image</definition>
+        <argsstring></argsstring>
+        <name>Image</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="14" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="14" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_construction_1ae943a8db36737ca71b957d8bb280d5fd" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Coursework.ViewModel.Construction.Description</definition>
+        <argsstring></argsstring>
+        <name>Description</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="15" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="15" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_construction_1a54d634a92d22d6d2d09a6743d89f5e18" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Coursework.ViewModel.Construction.Area</definition>
+        <argsstring></argsstring>
+        <name>Area</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="16" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="16" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_construction_1a97189d714db9f8fff8b4e4139843e0e0" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>double</type>
+        <definition>double Coursework.ViewModel.Construction.Long</definition>
+        <argsstring></argsstring>
+        <name>Long</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="17" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="17" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_construction_1a6e35d1d040b5414350986f9cfbba2ce6" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>double</type>
+        <definition>double Coursework.ViewModel.Construction.Lat</definition>
+        <argsstring></argsstring>
+        <name>Lat</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="18" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_construction_1a0a825be562a299c45412e761240e22b7" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>string</type>
+        <definition>string Coursework.ViewModel.Construction.Distance</definition>
+        <argsstring></argsstring>
+        <name>Distance</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="19" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="19" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_coursework_1_1_view_model_1_1_construction_1a3af27e3c53b1bbffde2288844517c561" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Coursework.ViewModel.Construction.CompareTo</definition>
+        <argsstring>(object obj)</argsstring>
+        <name>CompareTo</name>
+        <param>
+          <type>object</type>
+          <declname>obj</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="21" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="21" bodyend="30"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="26">
+        <label>IComparable</label>
+      </node>
+      <node id="25">
+        <label>Coursework.ViewModel.Construction</label>
+        <link refid="class_coursework_1_1_view_model_1_1_construction"/>
+        <childnode refid="26" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="28">
+        <label>IComparable</label>
+      </node>
+      <node id="27">
+        <label>Coursework.ViewModel.Construction</label>
+        <link refid="class_coursework_1_1_view_model_1_1_construction"/>
+        <childnode refid="28" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" line="9" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ViewModel/Construction.cs" bodystart="8" bodyend="31"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_view_model_1_1_construction_1a7ed24769539e06f9bccff95578623542" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::Construction</scope><name>Address</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_construction_1a54d634a92d22d6d2d09a6743d89f5e18" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::Construction</scope><name>Area</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_construction_1a3af27e3c53b1bbffde2288844517c561" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::Construction</scope><name>CompareTo</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_construction_1ae943a8db36737ca71b957d8bb280d5fd" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::Construction</scope><name>Description</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_construction_1a0a825be562a299c45412e761240e22b7" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::Construction</scope><name>Distance</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_construction_1a9b9b179b4f1f7a0b1070f96cbbba4d74" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::Construction</scope><name>Id</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_construction_1af60a4d1007c284eab40e99c79c81b131" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::Construction</scope><name>Image</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_construction_1a6e35d1d040b5414350986f9cfbba2ce6" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::Construction</scope><name>Lat</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_construction_1a97189d714db9f8fff8b4e4139843e0e0" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::Construction</scope><name>Long</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_construction_1ace2e1da62955c6a9b11f62c5a1d786a6" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::Construction</scope><name>Name</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_view_1_1_master_detail_main_page_detail" kind="class" prot="public">
+    <compoundname>Coursework::View::MasterDetailMainPageDetail</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_coursework_1_1_view_1_1_master_detail_main_page_detail_1aabfc6856576a4fa92ab049e7dc41da13" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.View.MasterDetailMainPageDetail.MasterDetailMainPageDetail</definition>
+        <argsstring>()</argsstring>
+        <name>MasterDetailMainPageDetail</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPageDetail.xaml.cs" line="18" column="1" bodyfile="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPageDetail.xaml.cs" bodystart="18" bodyend="41"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_coursework_1_1_view_1_1_master_detail_main_page_detail_1a10d7a5b1fba486495a1ceffc47e51ef1" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Coursework.View.MasterDetailMainPageDetail.ConstListView_ItemSelected</definition>
+        <argsstring>(object sender, SelectedItemChangedEventArgs e)</argsstring>
+        <name>ConstListView_ItemSelected</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>SelectedItemChangedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPageDetail.xaml.cs" line="44" column="1" bodyfile="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPageDetail.xaml.cs" bodystart="44" bodyend="50"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="80">
+        <label>ContentPage</label>
+      </node>
+      <node id="79">
+        <label>Coursework.View.MasterDetailMainPageDetail</label>
+        <link refid="class_coursework_1_1_view_1_1_master_detail_main_page_detail"/>
+        <childnode refid="80" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="82">
+        <label>ContentPage</label>
+      </node>
+      <node id="81">
+        <label>Coursework.View.MasterDetailMainPageDetail</label>
+        <link refid="class_coursework_1_1_view_1_1_master_detail_main_page_detail"/>
+        <childnode refid="82" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPageDetail.xaml.cs" line="17" column="1" bodyfile="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPageDetail.xaml.cs" bodystart="16" bodyend="51"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_view_1_1_master_detail_main_page_detail_1a10d7a5b1fba486495a1ceffc47e51ef1" prot="private" virt="non-virtual"><scope>Coursework::View::MasterDetailMainPageDetail</scope><name>ConstListView_ItemSelected</name></member>
+      <member refid="class_coursework_1_1_view_1_1_master_detail_main_page_detail_1aabfc6856576a4fa92ab049e7dc41da13" prot="public" virt="non-virtual"><scope>Coursework::View::MasterDetailMainPageDetail</scope><name>MasterDetailMainPageDetail</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

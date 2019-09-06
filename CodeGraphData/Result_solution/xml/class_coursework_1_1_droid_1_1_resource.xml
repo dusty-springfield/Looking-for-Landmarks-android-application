@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_droid_1_1_resource" kind="class" prot="public">
+    <compoundname>Coursework::Droid::Resource</compoundname>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_animation" prot="public">Coursework::Droid::Resource::Animation</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_animator" prot="public">Coursework::Droid::Resource::Animator</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_attribute" prot="public">Coursework::Droid::Resource::Attribute</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_boolean" prot="public">Coursework::Droid::Resource::Boolean</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_color" prot="public">Coursework::Droid::Resource::Color</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension" prot="public">Coursework::Droid::Resource::Dimension</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_drawable" prot="public">Coursework::Droid::Resource::Drawable</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_id" prot="public">Coursework::Droid::Resource::Id</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_integer" prot="public">Coursework::Droid::Resource::Integer</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_interpolator" prot="public">Coursework::Droid::Resource::Interpolator</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_layout" prot="public">Coursework::Droid::Resource::Layout</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_mipmap" prot="public">Coursework::Droid::Resource::Mipmap</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_string" prot="public">Coursework::Droid::Resource::String</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_style" prot="public">Coursework::Droid::Resource::Style</innerclass>
+    <innerclass refid="class_coursework_1_1_droid_1_1_resource_1_1_styleable" prot="public">Coursework::Droid::Resource::Styleable</innerclass>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_resource_1a2b7c4aa5435c11385526704719c1dec3" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>static</type>
+        <definition>static Coursework.Droid.Resource.Resource</definition>
+        <argsstring>()</argsstring>
+        <name>Resource</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="22" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="22" bodyend="25"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-static-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_resource_1acffe69e1a07bd12cae18490574149af6" prot="public" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>static void Coursework.Droid.Resource.UpdateIdValues</definition>
+        <argsstring>()</argsstring>
+        <name>UpdateIdValues</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="27" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="27" bodyend="2023"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="20" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="19" bodyend="9576"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1a2b7c4aa5435c11385526704719c1dec3" prot="private" virt="non-virtual"><scope>Coursework::Droid::Resource</scope><name>Resource</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1acffe69e1a07bd12cae18490574149af6" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource</scope><name>UpdateIdValues</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_view_model_1_1_v_a_r_i_a_b_l_e" kind="class" prot="public">
+    <compoundname>Coursework::ViewModel::VARIABLE</compoundname>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_v_a_r_i_a_b_l_e_1a2219a3072feda997c4346c1fb036a0a0" prot="public" static="yes" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>int</type>
+        <definition>int Coursework.ViewModel.VARIABLE.ITEMS_ON_PAGE</definition>
+        <argsstring></argsstring>
+        <name>ITEMS_ON_PAGE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/Model/VARIABLE.cs" line="10" column="1" bodyfile="C:/Coursework/Coursework/Coursework/Model/VARIABLE.cs" bodystart="10" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_v_a_r_i_a_b_l_e_1ae3941c915aea7dfd048e8e388f914221" prot="public" static="yes" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>double</type>
+        <definition>double Coursework.ViewModel.VARIABLE.MY_LATITUDE</definition>
+        <argsstring></argsstring>
+        <name>MY_LATITUDE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/Model/VARIABLE.cs" line="11" column="1" bodyfile="C:/Coursework/Coursework/Coursework/Model/VARIABLE.cs" bodystart="11" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="property" id="class_coursework_1_1_view_model_1_1_v_a_r_i_a_b_l_e_1a88cfdd8d5ae8293c45754f023a704379" prot="public" static="yes" readable="no" writable="no" gettable="yes" settable="yes">
+        <type>double</type>
+        <definition>double Coursework.ViewModel.VARIABLE.MY_LONGTITUDE</definition>
+        <argsstring></argsstring>
+        <name>MY_LONGTITUDE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/Model/VARIABLE.cs" line="12" column="1" bodyfile="C:/Coursework/Coursework/Coursework/Model/VARIABLE.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_coursework_1_1_view_model_1_1_v_a_r_i_a_b_l_e_1a38bc2d38361fe738bac5d4e545dd6ecf" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>static</type>
+        <definition>static Coursework.ViewModel.VARIABLE.VARIABLE</definition>
+        <argsstring>()</argsstring>
+        <name>VARIABLE</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/Model/VARIABLE.cs" line="14" column="1" bodyfile="C:/Coursework/Coursework/Coursework/Model/VARIABLE.cs" bodystart="14" bodyend="18"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework/Model/VARIABLE.cs" line="8" column="1" bodyfile="C:/Coursework/Coursework/Coursework/Model/VARIABLE.cs" bodystart="7" bodyend="21"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_view_model_1_1_v_a_r_i_a_b_l_e_1a2219a3072feda997c4346c1fb036a0a0" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::VARIABLE</scope><name>ITEMS_ON_PAGE</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_v_a_r_i_a_b_l_e_1ae3941c915aea7dfd048e8e388f914221" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::VARIABLE</scope><name>MY_LATITUDE</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_v_a_r_i_a_b_l_e_1a88cfdd8d5ae8293c45754f023a704379" prot="public" virt="non-virtual"><scope>Coursework::ViewModel::VARIABLE</scope><name>MY_LONGTITUDE</name></member>
+      <member refid="class_coursework_1_1_view_model_1_1_v_a_r_i_a_b_l_e_1a38bc2d38361fe738bac5d4e545dd6ecf" prot="private" virt="non-virtual"><scope>Coursework::ViewModel::VARIABLE</scope><name>VARIABLE</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

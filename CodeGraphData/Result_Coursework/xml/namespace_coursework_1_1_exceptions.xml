@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="namespace_coursework_1_1_exceptions" kind="namespace">
+    <compoundname>Coursework::Exceptions</compoundname>
+    <innerclass refid="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible" prot="public">Coursework::Exceptions::GeoLocationIsNotAvaible</innerclass>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" line="6" column="1"/>
+  </compounddef>
+</doxygen>

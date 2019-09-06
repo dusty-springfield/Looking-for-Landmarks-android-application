@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_o_r_m_1_1_database_manager" kind="class" prot="public">
+    <compoundname>Coursework::ORM::DatabaseManager</compoundname>
+      <sectiondef kind="private-attrib">
+      <memberdef kind="variable" id="class_coursework_1_1_o_r_m_1_1_database_manager_1a93f9938363fb49c9be14955b9189f3ec" prot="private" static="no" mutable="no">
+        <type>SQLiteConnection</type>
+        <definition>SQLiteConnection Coursework.ORM.DatabaseManager.dbConnection</definition>
+        <argsstring></argsstring>
+        <name>dbConnection</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ORM/DatabaseManager.cs" line="12" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ORM/DatabaseManager.cs" bodystart="12" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_coursework_1_1_o_r_m_1_1_database_manager_1ae36cbb1e0d6b2224f4d8b72fedfc04d4" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.ORM.DatabaseManager.DatabaseManager</definition>
+        <argsstring>()</argsstring>
+        <name>DatabaseManager</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ORM/DatabaseManager.cs" line="13" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ORM/DatabaseManager.cs" bodystart="13" bodyend="16"/>
+      </memberdef>
+      <memberdef kind="function" id="class_coursework_1_1_o_r_m_1_1_database_manager_1afb426306ed996a2216591e28a8cb3577" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>List&lt; <ref refid="class_coursework_1_1_view_model_1_1_construction" kindref="compound">Construction</ref> &gt;</type>
+        <definition>List&lt;Construction&gt; Coursework.ORM.DatabaseManager.GetAllConstructions</definition>
+        <argsstring>()</argsstring>
+        <name>GetAllConstructions</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ORM/DatabaseManager.cs" line="18" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ORM/DatabaseManager.cs" bodystart="18" bodyend="21"/>
+      </memberdef>
+      <memberdef kind="function" id="class_coursework_1_1_o_r_m_1_1_database_manager_1a6c61ad902df7d9358f0f70264289c283" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>int</type>
+        <definition>int Coursework.ORM.DatabaseManager.SaveConstruction</definition>
+        <argsstring>(Construction constructions)</argsstring>
+        <name>SaveConstruction</name>
+        <param>
+          <type><ref refid="class_coursework_1_1_view_model_1_1_construction" kindref="compound">Construction</ref></type>
+          <declname>constructions</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ORM/DatabaseManager.cs" line="23" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ORM/DatabaseManager.cs" bodystart="23" bodyend="27"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework/ORM/DatabaseManager.cs" line="10" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ORM/DatabaseManager.cs" bodystart="9" bodyend="29"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_o_r_m_1_1_database_manager_1ae36cbb1e0d6b2224f4d8b72fedfc04d4" prot="public" virt="non-virtual"><scope>Coursework::ORM::DatabaseManager</scope><name>DatabaseManager</name></member>
+      <member refid="class_coursework_1_1_o_r_m_1_1_database_manager_1a93f9938363fb49c9be14955b9189f3ec" prot="private" virt="non-virtual"><scope>Coursework::ORM::DatabaseManager</scope><name>dbConnection</name></member>
+      <member refid="class_coursework_1_1_o_r_m_1_1_database_manager_1afb426306ed996a2216591e28a8cb3577" prot="public" virt="non-virtual"><scope>Coursework::ORM::DatabaseManager</scope><name>GetAllConstructions</name></member>
+      <member refid="class_coursework_1_1_o_r_m_1_1_database_manager_1a6c61ad902df7d9358f0f70264289c283" prot="public" virt="non-virtual"><scope>Coursework::ORM::DatabaseManager</scope><name>SaveConstruction</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

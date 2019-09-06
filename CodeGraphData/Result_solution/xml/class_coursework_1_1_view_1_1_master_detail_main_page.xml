@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_view_1_1_master_detail_main_page" kind="class" prot="public">
+    <compoundname>Coursework::View::MasterDetailMainPage</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">MasterDetailPage</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_coursework_1_1_view_1_1_master_detail_main_page_1aeea75f25e2137f689923d9b94b667994" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.View.MasterDetailMainPage.MasterDetailMainPage</definition>
+        <argsstring>()</argsstring>
+        <name>MasterDetailMainPage</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPage.xaml.cs" line="15" column="1" bodyfile="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPage.xaml.cs" bodystart="15" bodyend="21"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_coursework_1_1_view_1_1_master_detail_main_page_1ab4db40640e01c6ac5511b63413eb1730" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>void</type>
+        <definition>void Coursework.View.MasterDetailMainPage.ListView_ItemSelected</definition>
+        <argsstring>(object sender, SelectedItemChangedEventArgs e)</argsstring>
+        <name>ListView_ItemSelected</name>
+        <param>
+          <type>object</type>
+          <declname>sender</declname>
+        </param>
+        <param>
+          <type>SelectedItemChangedEventArgs</type>
+          <declname>e</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPage.xaml.cs" line="23" column="1" bodyfile="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPage.xaml.cs" bodystart="23" bodyend="36"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="76">
+        <label>MasterDetailPage</label>
+      </node>
+      <node id="75">
+        <label>Coursework.View.MasterDetailMainPage</label>
+        <link refid="class_coursework_1_1_view_1_1_master_detail_main_page"/>
+        <childnode refid="76" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="78">
+        <label>MasterDetailPage</label>
+      </node>
+      <node id="77">
+        <label>Coursework.View.MasterDetailMainPage</label>
+        <link refid="class_coursework_1_1_view_1_1_master_detail_main_page"/>
+        <childnode refid="78" relation="public-inheritance">
+        </childnode>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPage.xaml.cs" line="14" column="1" bodyfile="C:/Coursework/Coursework/Coursework/View/MasterDetailMainPage.xaml.cs" bodystart="13" bodyend="37"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_view_1_1_master_detail_main_page_1ab4db40640e01c6ac5511b63413eb1730" prot="private" virt="non-virtual"><scope>Coursework::View::MasterDetailMainPage</scope><name>ListView_ItemSelected</name></member>
+      <member refid="class_coursework_1_1_view_1_1_master_detail_main_page_1aeea75f25e2137f689923d9b94b667994" prot="public" virt="non-virtual"><scope>Coursework::View::MasterDetailMainPage</scope><name>MasterDetailMainPage</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

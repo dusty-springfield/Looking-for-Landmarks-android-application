@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="dir_6714224d8c725290006d7583ddb30b76" kind="dir">
+    <compoundname>C:/Coursework/Coursework/Coursework</compoundname>
+    <innerdir refid="dir_dd1a98f8f8b64a4262e245f04da164fc">C:/Coursework/Coursework/Coursework/Exceptions</innerdir>
+    <innerdir refid="dir_72af94a6b56f4873ceb228c51a201f00">C:/Coursework/Coursework/Coursework/Model</innerdir>
+    <innerdir refid="dir_ec911e2bc7fbfc3fba9b9bde50fc1fb4">C:/Coursework/Coursework/Coursework/ORM</innerdir>
+    <innerdir refid="dir_638314a41c5b23c0535cf58bebe7c2fc">C:/Coursework/Coursework/Coursework/View</innerdir>
+    <innerdir refid="dir_b7261facba390665ec7b8d218ce019c2">C:/Coursework/Coursework/Coursework/ViewModel</innerdir>
+    <innerfile refid="_app_8xaml_8cs">App.xaml.cs</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework/"/>
+  </compounddef>
+</doxygen>

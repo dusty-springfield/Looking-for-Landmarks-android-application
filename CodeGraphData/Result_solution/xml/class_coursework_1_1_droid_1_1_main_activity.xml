@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_droid_1_1_main_activity" kind="class" prot="public">
+    <compoundname>Coursework::Droid::MainActivity</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">FormsAppCompatActivity</basecompoundref>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_main_activity_1a4bdd22c458ca5b09711f39cd470988c2" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Coursework.Droid.MainActivity.OnCreate</definition>
+        <argsstring>(Bundle savedInstanceState)</argsstring>
+        <name>OnCreate</name>
+        <param>
+          <type>Bundle</type>
+          <declname>savedInstanceState</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/MainActivity.cs" line="16" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/MainActivity.cs" bodystart="16" bodyend="24"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_main_activity_1a0d901d507e9649281f6aabeb2e00e410" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>override void</type>
+        <definition>override void Coursework.Droid.MainActivity.OnRequestPermissionsResult</definition>
+        <argsstring>(int requestCode, string[] permissions, Android.Content.PM.Permission[] grantResults)</argsstring>
+        <name>OnRequestPermissionsResult</name>
+        <param>
+          <type>int</type>
+          <declname>requestCode</declname>
+        </param>
+        <param>
+          <type>string[]</type>
+          <declname>permissions</declname>
+        </param>
+        <param>
+          <type>Android.Content.PM.Permission[]</type>
+          <declname>grantResults</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/MainActivity.cs" line="26" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/MainActivity.cs" bodystart="26" bodyend="30"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="71">
+        <label>Coursework.Droid.MainActivity</label>
+        <link refid="class_coursework_1_1_droid_1_1_main_activity"/>
+        <childnode refid="72" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="72">
+        <label>global::XamarinForms::Platform::Android::FormsAppCompatActivity</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="73">
+        <label>Coursework.Droid.MainActivity</label>
+        <link refid="class_coursework_1_1_droid_1_1_main_activity"/>
+        <childnode refid="74" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="74">
+        <label>global::XamarinForms::Platform::Android::FormsAppCompatActivity</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Coursework/Coursework/Coursework.Android/MainActivity.cs" line="15" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/MainActivity.cs" bodystart="14" bodyend="33"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_droid_1_1_main_activity_1a4bdd22c458ca5b09711f39cd470988c2" prot="protected" virt="non-virtual"><scope>Coursework::Droid::MainActivity</scope><name>OnCreate</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_main_activity_1a0d901d507e9649281f6aabeb2e00e410" prot="public" virt="non-virtual"><scope>Coursework::Droid::MainActivity</scope><name>OnRequestPermissionsResult</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

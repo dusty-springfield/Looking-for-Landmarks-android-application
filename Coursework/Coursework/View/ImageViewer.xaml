@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Coursework.ViewModel"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             x:Class="Coursework.View.ImageViewer"
+             Title="{Binding Name}"
+             BackgroundColor="#80000000">
+    <ContentPage.Content>
+        <Grid Padding="20">
+            <local:PinchAndPanContainer>
+                <local:PinchAndPanContainer.Content>
+                    <ffimageloading:CachedImage  LoadingPlaceholder="..."  DownsampleToViewSize="True"  Source="{Binding Image}" />
+                </local:PinchAndPanContainer.Content>
+            </local:PinchAndPanContainer>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

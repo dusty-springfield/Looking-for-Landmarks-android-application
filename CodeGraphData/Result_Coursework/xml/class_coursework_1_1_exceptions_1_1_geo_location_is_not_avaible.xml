@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible" kind="class" prot="public">
+    <compoundname>Coursework::Exceptions::GeoLocationIsNotAvaible</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">Exception</basecompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible_1ad038764a1b95008ae4dfacf264ac361e" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.Exceptions.GeoLocationIsNotAvaible.GeoLocationIsNotAvaible</definition>
+        <argsstring>()</argsstring>
+        <name>GeoLocationIsNotAvaible</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" line="11" column="1" bodyfile="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" bodystart="11" bodyend="11"/>
+      </memberdef>
+      <memberdef kind="function" id="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible_1a104eede587466b5118f57904a75c17db" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.Exceptions.GeoLocationIsNotAvaible.GeoLocationIsNotAvaible</definition>
+        <argsstring>(string message)</argsstring>
+        <name>GeoLocationIsNotAvaible</name>
+        <param>
+          <type>string</type>
+          <declname>message</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" line="12" column="1" bodyfile="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" bodystart="12" bodyend="12"/>
+      </memberdef>
+      <memberdef kind="function" id="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible_1a9afbc45bc204a9cbf3a10b1259cfa298" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.Exceptions.GeoLocationIsNotAvaible.GeoLocationIsNotAvaible</definition>
+        <argsstring>(string message, Exception inner)</argsstring>
+        <name>GeoLocationIsNotAvaible</name>
+        <param>
+          <type>string</type>
+          <declname>message</declname>
+        </param>
+        <param>
+          <type>Exception</type>
+          <declname>inner</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" line="13" column="1" bodyfile="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" bodystart="13" bodyend="13"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="protected-func">
+      <memberdef kind="function" id="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible_1a53aea473174023b6a896afba29ce7dfc" prot="protected" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.Exceptions.GeoLocationIsNotAvaible.GeoLocationIsNotAvaible</definition>
+        <argsstring>(System.Runtime.Serialization.SerializationInfo info, System.Runtime.Serialization.StreamingContext context)</argsstring>
+        <name>GeoLocationIsNotAvaible</name>
+        <param>
+          <type>System.Runtime.Serialization.SerializationInfo</type>
+          <declname>info</declname>
+        </param>
+        <param>
+          <type>System.Runtime.Serialization.StreamingContext</type>
+          <declname>context</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" line="14" column="1" bodyfile="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" bodystart="14" bodyend="16"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="31">
+        <label>Coursework.Exceptions.GeoLocationIsNotAvaible</label>
+        <link refid="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible"/>
+        <childnode refid="32" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="32">
+        <label>Exception</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="33">
+        <label>Coursework.Exceptions.GeoLocationIsNotAvaible</label>
+        <link refid="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible"/>
+        <childnode refid="34" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="34">
+        <label>Exception</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" line="10" column="1" bodyfile="C:/Coursework/Coursework/Coursework/Exceptions/GeoLocationIsNotAvaible.cs" bodystart="9" bodyend="17"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible_1ad038764a1b95008ae4dfacf264ac361e" prot="public" virt="non-virtual"><scope>Coursework::Exceptions::GeoLocationIsNotAvaible</scope><name>GeoLocationIsNotAvaible</name></member>
+      <member refid="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible_1a104eede587466b5118f57904a75c17db" prot="public" virt="non-virtual"><scope>Coursework::Exceptions::GeoLocationIsNotAvaible</scope><name>GeoLocationIsNotAvaible</name></member>
+      <member refid="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible_1a9afbc45bc204a9cbf3a10b1259cfa298" prot="public" virt="non-virtual"><scope>Coursework::Exceptions::GeoLocationIsNotAvaible</scope><name>GeoLocationIsNotAvaible</name></member>
+      <member refid="class_coursework_1_1_exceptions_1_1_geo_location_is_not_avaible_1a53aea473174023b6a896afba29ce7dfc" prot="protected" virt="non-virtual"><scope>Coursework::Exceptions::GeoLocationIsNotAvaible</scope><name>GeoLocationIsNotAvaible</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

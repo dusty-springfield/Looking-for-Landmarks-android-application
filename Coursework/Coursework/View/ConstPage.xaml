@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:viewmodel="clr-namespace:Coursework.ViewModel"
+             x:Class="Coursework.View.ConstPage"
+             x:Name="This">
+    <ContentPage.Content>
+        <ScrollView>
+            <Frame BorderColor="#E1E1E1" CornerRadius="3" Padding="10">
+            <StackLayout Orientation="Vertical" >
+                    <ffimageloading:CachedImage  LoadingPlaceholder="..."  DownsampleToViewSize="True"  x:Name="constImage" Source="{Binding Image}" Aspect="AspectFill"  />
+                <Button x:Name="btnShowOnMap"  Text="{Binding OnMap}"  Clicked="btnShowOnMapClicked"/>
+                <viewmodel:CustomLabel  Text="{Binding Description}"/>
+            </StackLayout>
+            </Frame>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_droid_1_1_resource_1_1_animator" kind="class" prot="public">
+    <compoundname>Coursework::Droid::Resource::Animator</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_animator_1a6b0e85ec934ff8bafb8c4a93f7d83075" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Animator.design_appbar_state_list_animator</definition>
+        <argsstring></argsstring>
+        <name>design_appbar_state_list_animator</name>
+        <initializer>= 2131099648</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="2102" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="2102" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_resource_1_1_animator_1a83e433d1bc351eebc59e6e44a2a8daa4" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>static</type>
+        <definition>static Coursework.Droid.Resource.Animator.Animator</definition>
+        <argsstring>()</argsstring>
+        <name>Animator</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="2104" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="2104" bodyend="2107"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_resource_1_1_animator_1a0951a86f821364cd88af7e8f9cf48476" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.Droid.Resource.Animator.Animator</definition>
+        <argsstring>()</argsstring>
+        <name>Animator</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="2109" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="2109" bodyend="2111"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="2099" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="2098" bodyend="2112"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_animator_1a83e433d1bc351eebc59e6e44a2a8daa4" prot="private" virt="non-virtual"><scope>Coursework::Droid::Resource::Animator</scope><name>Animator</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_animator_1a0951a86f821364cd88af7e8f9cf48476" prot="private" virt="non-virtual"><scope>Coursework::Droid::Resource::Animator</scope><name>Animator</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_animator_1a6b0e85ec934ff8bafb8c4a93f7d83075" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Animator</scope><name>design_appbar_state_list_animator</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="interface_coursework_1_1_o_r_m_1_1_i_database" kind="interface" prot="public">
+    <compoundname>Coursework::ORM::IDatabase</compoundname>
+    <derivedcompoundref refid="class_coursework_1_1_droid_1_1_database_service" prot="public" virt="non-virtual">Coursework.Droid.DatabaseService</derivedcompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="interface_coursework_1_1_o_r_m_1_1_i_database_1abdfca21d76a9b50e791f3fcd79e8f058" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>SQLiteConnection</type>
+        <definition>SQLiteConnection Coursework.ORM.IDatabase.CreateConnection</definition>
+        <argsstring>()</argsstring>
+        <name>CreateConnection</name>
+        <reimplementedby refid="class_coursework_1_1_droid_1_1_database_service_1a021f22ec0d6e72cc4ed037a5ec4d4d31">CreateConnection</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/ORM/IDatabase.cs" line="11" column="1"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="59">
+        <label>Coursework.ORM.IDatabase</label>
+        <link refid="interface_coursework_1_1_o_r_m_1_1_i_database"/>
+      </node>
+      <node id="60">
+        <label>Coursework.Droid.DatabaseService</label>
+        <link refid="class_coursework_1_1_droid_1_1_database_service"/>
+        <childnode refid="59" relation="public-inheritance">
+        </childnode>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Coursework/Coursework/Coursework/ORM/IDatabase.cs" line="10" column="1" bodyfile="C:/Coursework/Coursework/Coursework/ORM/IDatabase.cs" bodystart="9" bodyend="12"/>
+    <listofallmembers>
+      <member refid="interface_coursework_1_1_o_r_m_1_1_i_database_1abdfca21d76a9b50e791f3fcd79e8f058" prot="public" virt="non-virtual"><scope>Coursework::ORM::IDatabase</scope><name>CreateConnection</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

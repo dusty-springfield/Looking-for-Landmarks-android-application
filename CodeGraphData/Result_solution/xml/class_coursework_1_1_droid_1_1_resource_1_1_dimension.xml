@@ -1,0 +1,2507 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_droid_1_1_resource_1_1_dimension" kind="class" prot="public">
+    <compoundname>Coursework::Droid::Resource::Dimension</compoundname>
+      <sectiondef kind="public-attrib">
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a1f9b423a7f718e50f525ef02a9a2a64c" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_content_inset_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_content_inset_material</name>
+        <initializer>= 2131230747</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3594" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3594" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a43d5347b15bc3988618de246bb4bf6d7" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_content_inset_with_nav</name>
+        <initializer>= 2131230748</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3597" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3597" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a61a9164f069a31042a29c561d263861e" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_default_height_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_default_height_material</name>
+        <initializer>= 2131230736</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3600" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3600" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a0335481ab0899d575731d12aab8bf8ff" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_default_padding_end_material</name>
+        <initializer>= 2131230749</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3603" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3603" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a4663096bc17db4ea68ed397af9c3b1c7" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_default_padding_start_material</name>
+        <initializer>= 2131230750</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3606" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3606" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a99b19ed681c34f29691d36648365635b" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_elevation_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_elevation_material</name>
+        <initializer>= 2131230752</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3609" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3609" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac79db8e00988e385b6a08f2eb38be6d9" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_icon_vertical_padding_material</name>
+        <initializer>= 2131230753</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3612" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3612" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aacbc5f27a015175a983b021b2967e0e5" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_overflow_padding_end_material</name>
+        <initializer>= 2131230754</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3615" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3615" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a2a2b4af74950152692ec260539d4d09a" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_overflow_padding_start_material</name>
+        <initializer>= 2131230755</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3618" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3618" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a60e5fa92ac7f97f730f56203f852fbd5" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_progress_bar_size</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_progress_bar_size</name>
+        <initializer>= 2131230737</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3621" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3621" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a9f03c2ea55e6875e3d6f75f263618d6e" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_stacked_max_height</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_stacked_max_height</name>
+        <initializer>= 2131230756</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3624" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3624" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a88aa3ac0bd21141ca5f217fb299e56f8" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_stacked_tab_max_width</name>
+        <initializer>= 2131230757</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3627" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3627" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1abd0bd08f5618e3babdc278c785424ade" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_subtitle_bottom_margin_material</name>
+        <initializer>= 2131230758</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3630" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3630" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad25f70db1a8c8c55b9ce0eb711aa0d87" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_bar_subtitle_top_margin_material</name>
+        <initializer>= 2131230759</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3633" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3633" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac7ce0b5a92e2e891ee4405c1ea3dfc70" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_button_min_height_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_button_min_height_material</name>
+        <initializer>= 2131230760</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3636" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3636" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac70a68df8327bdb9ecd77c4bfc615e4b" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_button_min_width_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_button_min_width_material</name>
+        <initializer>= 2131230761</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3639" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3639" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ace8695fcfb3ec35d4fe99d7944745759" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material</definition>
+        <argsstring></argsstring>
+        <name>abc_action_button_min_width_overflow_material</name>
+        <initializer>= 2131230762</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3642" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3642" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aae1fd5cf5f19a67552bd0bea34008963" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height</definition>
+        <argsstring></argsstring>
+        <name>abc_alert_dialog_button_bar_height</name>
+        <initializer>= 2131230735</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3645" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3645" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a93da192b0727e3b33d456c369959b763" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_button_inset_horizontal_material</definition>
+        <argsstring></argsstring>
+        <name>abc_button_inset_horizontal_material</name>
+        <initializer>= 2131230763</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3648" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3648" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aa2eafcf5184463b678ba36519e3462bb" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_button_inset_vertical_material</definition>
+        <argsstring></argsstring>
+        <name>abc_button_inset_vertical_material</name>
+        <initializer>= 2131230764</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3651" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3651" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aad5a114b22cd5cabeb066877a5b4e64a" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_button_padding_horizontal_material</definition>
+        <argsstring></argsstring>
+        <name>abc_button_padding_horizontal_material</name>
+        <initializer>= 2131230765</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3654" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3654" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a1091a07b821ffb47849b98c3efebcf22" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_button_padding_vertical_material</definition>
+        <argsstring></argsstring>
+        <name>abc_button_padding_vertical_material</name>
+        <initializer>= 2131230766</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3657" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3657" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a356636759c2c974736cf7f96ed9ed8e0" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width</definition>
+        <argsstring></argsstring>
+        <name>abc_cascading_menus_min_smallest_width</name>
+        <initializer>= 2131230767</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3660" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3660" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a09953d515091822eb5e280fddd24feaf" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_config_prefDialogWidth</definition>
+        <argsstring></argsstring>
+        <name>abc_config_prefDialogWidth</name>
+        <initializer>= 2131230740</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3663" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3663" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a65404d6553ae62b264543a228296199d" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_control_corner_material</definition>
+        <argsstring></argsstring>
+        <name>abc_control_corner_material</name>
+        <initializer>= 2131230768</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3666" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3666" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a84b855b250a2f96c9c1cec4b5436c761" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_control_inset_material</definition>
+        <argsstring></argsstring>
+        <name>abc_control_inset_material</name>
+        <initializer>= 2131230769</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3669" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3669" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac2699e9378cbb432f904225da0eeb051" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_control_padding_material</definition>
+        <argsstring></argsstring>
+        <name>abc_control_padding_material</name>
+        <initializer>= 2131230770</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3672" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3672" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a53ada2b2b017337e92003ed18b3562a2" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_fixed_height_major</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_fixed_height_major</name>
+        <initializer>= 2131230741</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3675" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3675" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a9fee7958611130f26ab35d519606cc23" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_fixed_height_minor</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_fixed_height_minor</name>
+        <initializer>= 2131230742</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3678" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3678" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a07f91db677830f68c2263ca61df086fd" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_fixed_width_major</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_fixed_width_major</name>
+        <initializer>= 2131230743</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3681" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3681" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a4cf0b1596157e83e386b8a4d20e4e33a" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_fixed_width_minor</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_fixed_width_minor</name>
+        <initializer>= 2131230744</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3684" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3684" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a238431e24021aca36b001be00550b967" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_list_padding_bottom_no_buttons</name>
+        <initializer>= 2131230771</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3687" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3687" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac0d663ac98d97323988b2f503b1faa7c" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_list_padding_top_no_title</name>
+        <initializer>= 2131230772</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3690" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3690" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8d7fa95b94c4045abca41d18c2b5e0b9" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_min_width_major</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_min_width_major</name>
+        <initializer>= 2131230745</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3693" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3693" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a5536ea56fb31f51310659cceed488183" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_min_width_minor</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_min_width_minor</name>
+        <initializer>= 2131230746</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3696" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3696" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aba4f7d0292f75df2d03787bb2c70996c" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_padding_material</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_padding_material</name>
+        <initializer>= 2131230773</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3699" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3699" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a2f67ce022efb11629aaf7c676357d342" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_padding_top_material</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_padding_top_material</name>
+        <initializer>= 2131230774</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3702" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3702" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aec7f5a2a820c745b75812cd36a03fbb7" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dialog_title_divider_material</definition>
+        <argsstring></argsstring>
+        <name>abc_dialog_title_divider_material</name>
+        <initializer>= 2131230775</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3705" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3705" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae867c952a1b6fb8911f353a62d865b07" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_disabled_alpha_material_dark</definition>
+        <argsstring></argsstring>
+        <name>abc_disabled_alpha_material_dark</name>
+        <initializer>= 2131230776</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3708" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3708" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a9fcd09c5a868c9c2015d5e8f38a3a390" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_disabled_alpha_material_light</definition>
+        <argsstring></argsstring>
+        <name>abc_disabled_alpha_material_light</name>
+        <initializer>= 2131230777</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3711" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3711" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8218185becc963c37ece3ff2bf2cbf5e" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dropdownitem_icon_width</definition>
+        <argsstring></argsstring>
+        <name>abc_dropdownitem_icon_width</name>
+        <initializer>= 2131230778</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3714" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3714" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad3417044ed6bcb5bc7baf3fbc453192f" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left</definition>
+        <argsstring></argsstring>
+        <name>abc_dropdownitem_text_padding_left</name>
+        <initializer>= 2131230779</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3717" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3717" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a7f3d31f4ff572c5fb90e0c25c6bb5af1" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right</definition>
+        <argsstring></argsstring>
+        <name>abc_dropdownitem_text_padding_right</name>
+        <initializer>= 2131230780</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3720" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3720" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a5a3ffb9672b40a7282e269722f7bad4b" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material</definition>
+        <argsstring></argsstring>
+        <name>abc_edit_text_inset_bottom_material</name>
+        <initializer>= 2131230781</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3723" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3723" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1adf773ea674e136b74dc82b06a6df06c2" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material</definition>
+        <argsstring></argsstring>
+        <name>abc_edit_text_inset_horizontal_material</name>
+        <initializer>= 2131230782</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3726" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3726" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1acfa6b93991e284f42e169c4c8a385c47" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_edit_text_inset_top_material</definition>
+        <argsstring></argsstring>
+        <name>abc_edit_text_inset_top_material</name>
+        <initializer>= 2131230783</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3729" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3729" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1accae3fe1c865a24f227133d2dac25405" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_floating_window_z</definition>
+        <argsstring></argsstring>
+        <name>abc_floating_window_z</name>
+        <initializer>= 2131230784</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3732" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3732" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab332670b6e30e631f10ff4a528127bc6" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material</definition>
+        <argsstring></argsstring>
+        <name>abc_list_item_padding_horizontal_material</name>
+        <initializer>= 2131230785</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3735" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3735" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a914ada89825c7c1663ca3aae9d7a6aa4" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_panel_menu_list_width</definition>
+        <argsstring></argsstring>
+        <name>abc_panel_menu_list_width</name>
+        <initializer>= 2131230786</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3738" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3738" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a08874f28d11cb5744580b8be52d69d94" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_progress_bar_height_material</definition>
+        <argsstring></argsstring>
+        <name>abc_progress_bar_height_material</name>
+        <initializer>= 2131230787</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3741" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3741" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aa055d77421672c6bed96ede50d62e775" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_search_view_preferred_height</definition>
+        <argsstring></argsstring>
+        <name>abc_search_view_preferred_height</name>
+        <initializer>= 2131230788</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3744" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3744" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8b4afb84e20ba03e19eb1fe0d80cee26" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_search_view_preferred_width</definition>
+        <argsstring></argsstring>
+        <name>abc_search_view_preferred_width</name>
+        <initializer>= 2131230789</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3747" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3747" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af2ac60de61e4f9668391bfff4c259505" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_seekbar_track_background_height_material</definition>
+        <argsstring></argsstring>
+        <name>abc_seekbar_track_background_height_material</name>
+        <initializer>= 2131230790</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3750" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3750" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae475d311018047b6586e9c344313a103" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material</definition>
+        <argsstring></argsstring>
+        <name>abc_seekbar_track_progress_height_material</name>
+        <initializer>= 2131230791</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3753" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3753" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a851c5242d5d3054be5eb5cadaf6072da" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_select_dialog_padding_start_material</definition>
+        <argsstring></argsstring>
+        <name>abc_select_dialog_padding_start_material</name>
+        <initializer>= 2131230792</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3756" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3756" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab10a096d11fb546ef9a324c4f3d2eef5" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_switch_padding</definition>
+        <argsstring></argsstring>
+        <name>abc_switch_padding</name>
+        <initializer>= 2131230751</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3759" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3759" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ade860f32e919ab986f9922bf27783def" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_body_1_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_body_1_material</name>
+        <initializer>= 2131230793</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3762" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3762" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a58a27bc821bf2c3216d7d73d34baaa29" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_body_2_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_body_2_material</name>
+        <initializer>= 2131230794</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3765" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3765" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8a79f691dca48b8d8e0ba38409415e36" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_button_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_button_material</name>
+        <initializer>= 2131230795</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3768" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3768" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a62d9495c81b4d2e035cac50c99c47f17" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_caption_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_caption_material</name>
+        <initializer>= 2131230796</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3771" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3771" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a3aa6715458a20e3f4c3c0f95956a2c2f" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_display_1_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_display_1_material</name>
+        <initializer>= 2131230797</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3774" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3774" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab546ee576caed8a8da91cd02917610c3" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_display_2_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_display_2_material</name>
+        <initializer>= 2131230798</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3777" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3777" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a37013af9ec22530520695ff8477b8376" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_display_3_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_display_3_material</name>
+        <initializer>= 2131230799</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3780" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3780" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae264826b9c05d78062be49074f6f6611" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_display_4_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_display_4_material</name>
+        <initializer>= 2131230800</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3783" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3783" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac1965a770e6da9d9fb378b05515a4c92" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_headline_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_headline_material</name>
+        <initializer>= 2131230801</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3786" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3786" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a518c49453bda42e377199d4c22d879f5" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_large_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_large_material</name>
+        <initializer>= 2131230802</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3789" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3789" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aff5d8474033f1a73e927d40902070292" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_medium_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_medium_material</name>
+        <initializer>= 2131230803</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3792" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3792" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a68c9ae1270ce553c0831702aa16e6e9f" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_menu_header_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_menu_header_material</name>
+        <initializer>= 2131230804</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3795" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3795" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1acd6279d4d5b599858f5d20a591cab642" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_menu_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_menu_material</name>
+        <initializer>= 2131230805</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3798" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3798" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af33a40c528f43515cc169cc0a303b3fc" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_small_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_small_material</name>
+        <initializer>= 2131230806</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3801" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3801" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a044938ca5c2b10d39bf4fe21cc32ede8" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_subhead_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_subhead_material</name>
+        <initializer>= 2131230807</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3804" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3804" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8d78b380577823958a781c76e28d3119" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_subtitle_material_toolbar</name>
+        <initializer>= 2131230738</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3807" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3807" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a7e04767af59ea1d2014a606fca5ce032" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_title_material</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_title_material</name>
+        <initializer>= 2131230808</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3810" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3810" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a03f4da40fe63cbf2c91ff36885b35867" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.abc_text_size_title_material_toolbar</definition>
+        <argsstring></argsstring>
+        <name>abc_text_size_title_material_toolbar</name>
+        <initializer>= 2131230739</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3813" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3813" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8dce7c3d1e30ab0e0f93425f2cb531b5" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.cardview_compat_inset_shadow</definition>
+        <argsstring></argsstring>
+        <name>cardview_compat_inset_shadow</name>
+        <initializer>= 2131230732</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3816" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3816" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad8570a0d2e590353a60a31d5bb7c2e3a" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.cardview_default_elevation</definition>
+        <argsstring></argsstring>
+        <name>cardview_default_elevation</name>
+        <initializer>= 2131230733</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3819" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3819" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1acb20b2cddbb6294fb1ae37219c25b49c" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.cardview_default_radius</definition>
+        <argsstring></argsstring>
+        <name>cardview_default_radius</name>
+        <initializer>= 2131230734</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3822" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3822" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8e2ebcb35ea7458eb1e572cbc82ce571" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.compat_button_inset_horizontal_material</definition>
+        <argsstring></argsstring>
+        <name>compat_button_inset_horizontal_material</name>
+        <initializer>= 2131230868</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3825" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3825" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad739741443282073a26d00972a7985e8" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.compat_button_inset_vertical_material</definition>
+        <argsstring></argsstring>
+        <name>compat_button_inset_vertical_material</name>
+        <initializer>= 2131230869</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3828" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3828" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af6529fd6c5afac7891ec9659f69dbc17" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.compat_button_padding_horizontal_material</definition>
+        <argsstring></argsstring>
+        <name>compat_button_padding_horizontal_material</name>
+        <initializer>= 2131230870</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3831" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3831" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1afc0f86418fba628674c2d0f75a515b7e" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.compat_button_padding_vertical_material</definition>
+        <argsstring></argsstring>
+        <name>compat_button_padding_vertical_material</name>
+        <initializer>= 2131230871</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3834" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3834" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a2c1087a8d30f6fc08cf0e2c8c1f8d7ed" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.compat_control_corner_material</definition>
+        <argsstring></argsstring>
+        <name>compat_control_corner_material</name>
+        <initializer>= 2131230872</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3837" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3837" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a1ef785db9bc67fc505eaf76f7e89f755" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_appbar_elevation</definition>
+        <argsstring></argsstring>
+        <name>design_appbar_elevation</name>
+        <initializer>= 2131230834</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3840" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3840" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad8c284aa7b589997ca7b51dc26ad0f6a" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_navigation_active_item_max_width</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_navigation_active_item_max_width</name>
+        <initializer>= 2131230835</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3843" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3843" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8c62d1e1b9c9c723755e3c88b9fa1878" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_navigation_active_text_size</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_navigation_active_text_size</name>
+        <initializer>= 2131230836</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3846" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3846" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a2d5ac30d569d9f7ffecc6f81d7002df0" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_navigation_elevation</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_navigation_elevation</name>
+        <initializer>= 2131230837</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3849" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3849" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a680df91ebcb190e098cf1c02f1f0db5f" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_navigation_height</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_navigation_height</name>
+        <initializer>= 2131230838</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3852" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3852" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad1498c87a565462fec4ede9fd611a9d5" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_navigation_item_max_width</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_navigation_item_max_width</name>
+        <initializer>= 2131230839</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3855" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3855" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a0fa52588bf1ec294af2d64a9c923b50c" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_navigation_item_min_width</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_navigation_item_min_width</name>
+        <initializer>= 2131230840</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3858" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3858" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8a1647df0c0ae9e646df9c4adb182ecd" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_navigation_margin</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_navigation_margin</name>
+        <initializer>= 2131230841</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3861" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3861" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab235c7e7b5dac4822143120a3b8bd12e" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_navigation_shadow_height</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_navigation_shadow_height</name>
+        <initializer>= 2131230842</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3864" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3864" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aa5f779eee03879338972178438f0c9a5" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_navigation_text_size</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_navigation_text_size</name>
+        <initializer>= 2131230843</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3867" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3867" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a248ce570788e9bbeb407d940b57cecd5" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_sheet_modal_elevation</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_sheet_modal_elevation</name>
+        <initializer>= 2131230844</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3870" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3870" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1abdbeae34ef78684e10ae0d01b4d9ea5e" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_bottom_sheet_peek_height_min</definition>
+        <argsstring></argsstring>
+        <name>design_bottom_sheet_peek_height_min</name>
+        <initializer>= 2131230845</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3873" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3873" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af87c30cbfecf3f75dc16c8834ef27af8" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_fab_border_width</definition>
+        <argsstring></argsstring>
+        <name>design_fab_border_width</name>
+        <initializer>= 2131230846</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3876" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3876" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a74d8a77daaed7401c3ad5880758a085c" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_fab_elevation</definition>
+        <argsstring></argsstring>
+        <name>design_fab_elevation</name>
+        <initializer>= 2131230847</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3879" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3879" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a14fab8b3ea0005ea72068e1f80e5ba17" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_fab_image_size</definition>
+        <argsstring></argsstring>
+        <name>design_fab_image_size</name>
+        <initializer>= 2131230848</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3882" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3882" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae84a1860fb1b6260631aed80a2f9f866" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_fab_size_mini</definition>
+        <argsstring></argsstring>
+        <name>design_fab_size_mini</name>
+        <initializer>= 2131230849</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3885" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3885" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad9765ca115d39072d045c28713fb1097" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_fab_size_normal</definition>
+        <argsstring></argsstring>
+        <name>design_fab_size_normal</name>
+        <initializer>= 2131230850</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3888" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3888" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab271223051e965685d055d9d45c6a7c9" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_fab_translation_z_pressed</definition>
+        <argsstring></argsstring>
+        <name>design_fab_translation_z_pressed</name>
+        <initializer>= 2131230851</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3891" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3891" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a0878afb45849eb99fd4776cd78a23233" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_navigation_elevation</definition>
+        <argsstring></argsstring>
+        <name>design_navigation_elevation</name>
+        <initializer>= 2131230852</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3894" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3894" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a858e9842f6f00f31508b9eaf5750209e" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_navigation_icon_padding</definition>
+        <argsstring></argsstring>
+        <name>design_navigation_icon_padding</name>
+        <initializer>= 2131230853</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3897" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3897" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1abbca7d7a64ab22cd0d06bbee5c2eee2e" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_navigation_icon_size</definition>
+        <argsstring></argsstring>
+        <name>design_navigation_icon_size</name>
+        <initializer>= 2131230854</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3900" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3900" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a322ef6a2e8fc48b886f9d1ffd2fd6a04" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_navigation_max_width</definition>
+        <argsstring></argsstring>
+        <name>design_navigation_max_width</name>
+        <initializer>= 2131230826</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3903" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3903" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a49f4a8459048a8aca8d7c278c5e2efc0" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_navigation_padding_bottom</definition>
+        <argsstring></argsstring>
+        <name>design_navigation_padding_bottom</name>
+        <initializer>= 2131230855</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3906" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3906" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac54e4f859c7f910b99644248669c78ca" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_navigation_separator_vertical_padding</definition>
+        <argsstring></argsstring>
+        <name>design_navigation_separator_vertical_padding</name>
+        <initializer>= 2131230856</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3909" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3909" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a6875d866e271a3d66d3bc067084aadd2" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_snackbar_action_inline_max_width</definition>
+        <argsstring></argsstring>
+        <name>design_snackbar_action_inline_max_width</name>
+        <initializer>= 2131230827</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3912" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3912" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a50f55b2061ecb30a2941c837831dee03" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_snackbar_background_corner_radius</definition>
+        <argsstring></argsstring>
+        <name>design_snackbar_background_corner_radius</name>
+        <initializer>= 2131230828</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3915" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3915" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a039eb5e2b54b889dd7db8f38a3cdc3ff" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_snackbar_elevation</definition>
+        <argsstring></argsstring>
+        <name>design_snackbar_elevation</name>
+        <initializer>= 2131230857</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3918" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3918" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a21cd0e40623be1c6b64907a5324f58b0" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_snackbar_extra_spacing_horizontal</definition>
+        <argsstring></argsstring>
+        <name>design_snackbar_extra_spacing_horizontal</name>
+        <initializer>= 2131230829</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3921" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3921" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a1d029da298ede86667b818e7378a9b68" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_snackbar_max_width</definition>
+        <argsstring></argsstring>
+        <name>design_snackbar_max_width</name>
+        <initializer>= 2131230830</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3924" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3924" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af6f5b69dfad4927dbce16047b6f123cf" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_snackbar_min_width</definition>
+        <argsstring></argsstring>
+        <name>design_snackbar_min_width</name>
+        <initializer>= 2131230831</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3927" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3927" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a0852fe1905bd1de16b92ce9bfca14dc0" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_snackbar_padding_horizontal</definition>
+        <argsstring></argsstring>
+        <name>design_snackbar_padding_horizontal</name>
+        <initializer>= 2131230858</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3930" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3930" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aec995be8df2a198cf5ba30b607107eac" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_snackbar_padding_vertical</definition>
+        <argsstring></argsstring>
+        <name>design_snackbar_padding_vertical</name>
+        <initializer>= 2131230859</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3933" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3933" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad0ad2b3f201ab8fc70f923c0e28580c6" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_snackbar_padding_vertical_2lines</definition>
+        <argsstring></argsstring>
+        <name>design_snackbar_padding_vertical_2lines</name>
+        <initializer>= 2131230832</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3936" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3936" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a1630c11fb01f0c7b3fefd1d63063e38f" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_snackbar_text_size</definition>
+        <argsstring></argsstring>
+        <name>design_snackbar_text_size</name>
+        <initializer>= 2131230860</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3939" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3939" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a41bc287c558c67207b57d01cc5dc3c83" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_tab_max_width</definition>
+        <argsstring></argsstring>
+        <name>design_tab_max_width</name>
+        <initializer>= 2131230861</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3942" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3942" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad861a5b0b51ac317c13676b28041d914" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_tab_scrollable_min_width</definition>
+        <argsstring></argsstring>
+        <name>design_tab_scrollable_min_width</name>
+        <initializer>= 2131230833</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3945" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3945" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a800742c6fb9bda92c797f2c1acbb1a51" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_tab_text_size</definition>
+        <argsstring></argsstring>
+        <name>design_tab_text_size</name>
+        <initializer>= 2131230862</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3948" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3948" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1afda207c6ed66eaa7ed111efb3eb72e69" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.design_tab_text_size_2line</definition>
+        <argsstring></argsstring>
+        <name>design_tab_text_size_2line</name>
+        <initializer>= 2131230863</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3951" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3951" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a674c6677e67cdf763e14878e96cd0d43" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.disabled_alpha_material_dark</definition>
+        <argsstring></argsstring>
+        <name>disabled_alpha_material_dark</name>
+        <initializer>= 2131230809</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3954" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3954" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1abbeb1fbfc6c682006846b37ec671dff1" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.disabled_alpha_material_light</definition>
+        <argsstring></argsstring>
+        <name>disabled_alpha_material_light</name>
+        <initializer>= 2131230810</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3957" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3957" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8d467d5f88205acc04d93fcc24cbf859" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.fastscroll_default_thickness</definition>
+        <argsstring></argsstring>
+        <name>fastscroll_default_thickness</name>
+        <initializer>= 2131230720</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3960" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3960" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1acc2d87c569b4ec2d5179fcb8aadc8564" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.fastscroll_margin</definition>
+        <argsstring></argsstring>
+        <name>fastscroll_margin</name>
+        <initializer>= 2131230721</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3963" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3963" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a4c2e9dec88ceb920da946ea80c1deefc" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.fastscroll_minimum_range</definition>
+        <argsstring></argsstring>
+        <name>fastscroll_minimum_range</name>
+        <initializer>= 2131230722</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3966" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3966" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a01da64242debd14cebeceb65d74dd2d5" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.highlight_alpha_material_colored</definition>
+        <argsstring></argsstring>
+        <name>highlight_alpha_material_colored</name>
+        <initializer>= 2131230811</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3969" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3969" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a7293e6fd1d7f42b1d896bbb26398ec6f" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.highlight_alpha_material_dark</definition>
+        <argsstring></argsstring>
+        <name>highlight_alpha_material_dark</name>
+        <initializer>= 2131230812</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3972" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3972" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ada4ca20752e01c5b89c6f954e58dd487" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.highlight_alpha_material_light</definition>
+        <argsstring></argsstring>
+        <name>highlight_alpha_material_light</name>
+        <initializer>= 2131230813</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3975" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3975" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a5c9dbec900e0ed6643ac8c812ed456ac" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.hint_alpha_material_dark</definition>
+        <argsstring></argsstring>
+        <name>hint_alpha_material_dark</name>
+        <initializer>= 2131230814</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3978" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3978" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8c1f603a6da8ef2895a071c540b005b9" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.hint_alpha_material_light</definition>
+        <argsstring></argsstring>
+        <name>hint_alpha_material_light</name>
+        <initializer>= 2131230815</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3981" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3981" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a7737b04a188c39850c21fd8190784b15" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.hint_pressed_alpha_material_dark</definition>
+        <argsstring></argsstring>
+        <name>hint_pressed_alpha_material_dark</name>
+        <initializer>= 2131230816</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3984" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3984" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a5b8e7f4afc2e07f3f18f6ef1f8793a6c" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.hint_pressed_alpha_material_light</definition>
+        <argsstring></argsstring>
+        <name>hint_pressed_alpha_material_light</name>
+        <initializer>= 2131230817</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3987" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3987" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a53c83b98e07bad03cca4a963c5fd4e4c" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame</definition>
+        <argsstring></argsstring>
+        <name>item_touch_helper_max_drag_scroll_per_frame</name>
+        <initializer>= 2131230723</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3990" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3990" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a386f5293588f03ab25ababb53330c4a0" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity</definition>
+        <argsstring></argsstring>
+        <name>item_touch_helper_swipe_escape_max_velocity</name>
+        <initializer>= 2131230724</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3993" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3993" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a787dac0c8d8c9e4d8505489e3c6d4ca0" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.item_touch_helper_swipe_escape_velocity</definition>
+        <argsstring></argsstring>
+        <name>item_touch_helper_swipe_escape_velocity</name>
+        <initializer>= 2131230725</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3996" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3996" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a7fcd59382c6f30bdc92b8d2ef1d73ff6" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.mr_controller_volume_group_list_item_height</definition>
+        <argsstring></argsstring>
+        <name>mr_controller_volume_group_list_item_height</name>
+        <initializer>= 2131230726</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3999" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3999" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a88101c034c1f5f99a6a2b788057a9fc3" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.mr_controller_volume_group_list_item_icon_size</definition>
+        <argsstring></argsstring>
+        <name>mr_controller_volume_group_list_item_icon_size</name>
+        <initializer>= 2131230727</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4002" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4002" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a3aa95d97065601fceee137ca5ccc2a77" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.mr_controller_volume_group_list_max_height</definition>
+        <argsstring></argsstring>
+        <name>mr_controller_volume_group_list_max_height</name>
+        <initializer>= 2131230728</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4005" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4005" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab2d49fa7b6ad32a33959b447bfe61c9a" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.mr_controller_volume_group_list_padding_top</definition>
+        <argsstring></argsstring>
+        <name>mr_controller_volume_group_list_padding_top</name>
+        <initializer>= 2131230731</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4008" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4008" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ada41247add963cf8df4a39517fd8569c" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.mr_dialog_fixed_width_major</definition>
+        <argsstring></argsstring>
+        <name>mr_dialog_fixed_width_major</name>
+        <initializer>= 2131230729</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4011" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4011" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac5ce8f087d9fbc83c737ab54a40f475c" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.mr_dialog_fixed_width_minor</definition>
+        <argsstring></argsstring>
+        <name>mr_dialog_fixed_width_minor</name>
+        <initializer>= 2131230730</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4014" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4014" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a9a956291ae6faaa03ba2c88e25cd43d4" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_action_icon_size</definition>
+        <argsstring></argsstring>
+        <name>notification_action_icon_size</name>
+        <initializer>= 2131230873</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4017" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4017" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a919047a2fb450b5e9f72668f260b5fab" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_action_text_size</definition>
+        <argsstring></argsstring>
+        <name>notification_action_text_size</name>
+        <initializer>= 2131230874</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4020" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4020" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a58087c18e9415f4ff9f997f706be6a98" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_big_circle_margin</definition>
+        <argsstring></argsstring>
+        <name>notification_big_circle_margin</name>
+        <initializer>= 2131230875</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4023" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4023" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae2acbdbac232725bd5fc8a8788e91d5f" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_content_margin_start</definition>
+        <argsstring></argsstring>
+        <name>notification_content_margin_start</name>
+        <initializer>= 2131230865</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4026" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4026" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a815df1933af7864a343a4b177e4e8c70" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_large_icon_height</definition>
+        <argsstring></argsstring>
+        <name>notification_large_icon_height</name>
+        <initializer>= 2131230876</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4029" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4029" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a24446043f28273006ecbd52d4896d3aa" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_large_icon_width</definition>
+        <argsstring></argsstring>
+        <name>notification_large_icon_width</name>
+        <initializer>= 2131230877</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4032" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4032" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aed3fdb8d576494212f3b5bc59239e7a8" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_main_column_padding_top</definition>
+        <argsstring></argsstring>
+        <name>notification_main_column_padding_top</name>
+        <initializer>= 2131230866</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4035" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4035" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae938cd556667ca6c3f6aca138e375e82" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_media_narrow_margin</definition>
+        <argsstring></argsstring>
+        <name>notification_media_narrow_margin</name>
+        <initializer>= 2131230867</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4038" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4038" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a0b1ec1611ec7299ed55ccf4b76b28dd6" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_right_icon_size</definition>
+        <argsstring></argsstring>
+        <name>notification_right_icon_size</name>
+        <initializer>= 2131230878</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4041" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4041" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a334f4e7bbd3f569802976645aaaf5c6a" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_right_side_padding_top</definition>
+        <argsstring></argsstring>
+        <name>notification_right_side_padding_top</name>
+        <initializer>= 2131230864</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4044" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4044" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af2008b5e6fb14ef4091601001edf0e87" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_small_icon_background_padding</definition>
+        <argsstring></argsstring>
+        <name>notification_small_icon_background_padding</name>
+        <initializer>= 2131230879</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4047" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4047" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a90a33b06b9a1d917e4875fd4f9e1e63f" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_small_icon_size_as_large</definition>
+        <argsstring></argsstring>
+        <name>notification_small_icon_size_as_large</name>
+        <initializer>= 2131230880</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4050" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4050" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a23265817c7fcc388088bf688aa7d8184" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_subtext_size</definition>
+        <argsstring></argsstring>
+        <name>notification_subtext_size</name>
+        <initializer>= 2131230881</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4053" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4053" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae94d990a2b5c4c55e93cf011ba952949" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_top_pad</definition>
+        <argsstring></argsstring>
+        <name>notification_top_pad</name>
+        <initializer>= 2131230882</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4056" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4056" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac8b95376899c3f67dd3baa142a50b499" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.notification_top_pad_large_text</definition>
+        <argsstring></argsstring>
+        <name>notification_top_pad_large_text</name>
+        <initializer>= 2131230883</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4059" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4059" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aaf57f3b113b0679a8a88383c0ea64798" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.tooltip_corner_radius</definition>
+        <argsstring></argsstring>
+        <name>tooltip_corner_radius</name>
+        <initializer>= 2131230818</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4062" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4062" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae8b1fb8b316f81449a2071c6c77f5075" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.tooltip_horizontal_padding</definition>
+        <argsstring></argsstring>
+        <name>tooltip_horizontal_padding</name>
+        <initializer>= 2131230819</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4065" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4065" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad7e6f15fe5ed3e76820c2fdf31a1374d" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.tooltip_margin</definition>
+        <argsstring></argsstring>
+        <name>tooltip_margin</name>
+        <initializer>= 2131230820</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4068" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4068" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab31628c2b6adc481f28734a712bf0866" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset</definition>
+        <argsstring></argsstring>
+        <name>tooltip_precise_anchor_extra_offset</name>
+        <initializer>= 2131230821</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4071" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4071" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a849d6b4840d0cc8269316eb010131338" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.tooltip_precise_anchor_threshold</definition>
+        <argsstring></argsstring>
+        <name>tooltip_precise_anchor_threshold</name>
+        <initializer>= 2131230822</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4074" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4074" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab13166bcc023723024d875a819e26087" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.tooltip_vertical_padding</definition>
+        <argsstring></argsstring>
+        <name>tooltip_vertical_padding</name>
+        <initializer>= 2131230823</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4077" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4077" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a52e5d601d499d7572e80eef9b1c686e5" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.tooltip_y_offset_non_touch</definition>
+        <argsstring></argsstring>
+        <name>tooltip_y_offset_non_touch</name>
+        <initializer>= 2131230824</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4080" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4080" bodyend="-1"/>
+      </memberdef>
+      <memberdef kind="variable" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a06b8823bfb4c0b70a64e0bee9808f71d" prot="public" static="no" mutable="no">
+        <type>const int</type>
+        <definition>const int Coursework.Droid.Resource.Dimension.tooltip_y_offset_touch</definition>
+        <argsstring></argsstring>
+        <name>tooltip_y_offset_touch</name>
+        <initializer>= 2131230825</initializer>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4083" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4083" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-static-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a6d31d22997bd41ff0c8e0d31fe975cb7" prot="private" static="yes" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type>static</type>
+        <definition>static Coursework.Droid.Resource.Dimension.Dimension</definition>
+        <argsstring>()</argsstring>
+        <name>Dimension</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4085" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4085" bodyend="4088"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="private-func">
+      <memberdef kind="function" id="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a2a9528a3843d7b4f33a869975db7b492" prot="private" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.Droid.Resource.Dimension.Dimension</definition>
+        <argsstring>()</argsstring>
+        <name>Dimension</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="4090" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="4090" bodyend="4092"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" line="3591" column="1" bodyfile="C:/Coursework/Coursework/Coursework.Android/Resources/Resource.designer.cs" bodystart="3590" bodyend="4093"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a1f9b423a7f718e50f525ef02a9a2a64c" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_content_inset_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a43d5347b15bc3988618de246bb4bf6d7" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_content_inset_with_nav</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a61a9164f069a31042a29c561d263861e" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_default_height_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a0335481ab0899d575731d12aab8bf8ff" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_default_padding_end_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a4663096bc17db4ea68ed397af9c3b1c7" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_default_padding_start_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a99b19ed681c34f29691d36648365635b" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_elevation_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac79db8e00988e385b6a08f2eb38be6d9" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_icon_vertical_padding_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aacbc5f27a015175a983b021b2967e0e5" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_overflow_padding_end_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a2a2b4af74950152692ec260539d4d09a" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_overflow_padding_start_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a60e5fa92ac7f97f730f56203f852fbd5" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_progress_bar_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a9f03c2ea55e6875e3d6f75f263618d6e" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_stacked_max_height</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a88aa3ac0bd21141ca5f217fb299e56f8" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_stacked_tab_max_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1abd0bd08f5618e3babdc278c785424ade" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_subtitle_bottom_margin_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad25f70db1a8c8c55b9ce0eb711aa0d87" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_bar_subtitle_top_margin_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac7ce0b5a92e2e891ee4405c1ea3dfc70" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_button_min_height_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac70a68df8327bdb9ecd77c4bfc615e4b" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_button_min_width_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ace8695fcfb3ec35d4fe99d7944745759" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_action_button_min_width_overflow_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aae1fd5cf5f19a67552bd0bea34008963" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_alert_dialog_button_bar_height</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a93da192b0727e3b33d456c369959b763" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_button_inset_horizontal_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aa2eafcf5184463b678ba36519e3462bb" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_button_inset_vertical_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aad5a114b22cd5cabeb066877a5b4e64a" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_button_padding_horizontal_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a1091a07b821ffb47849b98c3efebcf22" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_button_padding_vertical_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a356636759c2c974736cf7f96ed9ed8e0" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_cascading_menus_min_smallest_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a09953d515091822eb5e280fddd24feaf" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_config_prefDialogWidth</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a65404d6553ae62b264543a228296199d" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_control_corner_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a84b855b250a2f96c9c1cec4b5436c761" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_control_inset_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac2699e9378cbb432f904225da0eeb051" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_control_padding_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a53ada2b2b017337e92003ed18b3562a2" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_fixed_height_major</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a9fee7958611130f26ab35d519606cc23" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_fixed_height_minor</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a07f91db677830f68c2263ca61df086fd" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_fixed_width_major</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a4cf0b1596157e83e386b8a4d20e4e33a" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_fixed_width_minor</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a238431e24021aca36b001be00550b967" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_list_padding_bottom_no_buttons</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac0d663ac98d97323988b2f503b1faa7c" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_list_padding_top_no_title</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8d7fa95b94c4045abca41d18c2b5e0b9" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_min_width_major</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a5536ea56fb31f51310659cceed488183" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_min_width_minor</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aba4f7d0292f75df2d03787bb2c70996c" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_padding_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a2f67ce022efb11629aaf7c676357d342" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_padding_top_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aec7f5a2a820c745b75812cd36a03fbb7" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dialog_title_divider_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae867c952a1b6fb8911f353a62d865b07" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_disabled_alpha_material_dark</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a9fcd09c5a868c9c2015d5e8f38a3a390" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_disabled_alpha_material_light</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8218185becc963c37ece3ff2bf2cbf5e" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dropdownitem_icon_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad3417044ed6bcb5bc7baf3fbc453192f" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dropdownitem_text_padding_left</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a7f3d31f4ff572c5fb90e0c25c6bb5af1" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_dropdownitem_text_padding_right</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a5a3ffb9672b40a7282e269722f7bad4b" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_edit_text_inset_bottom_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1adf773ea674e136b74dc82b06a6df06c2" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_edit_text_inset_horizontal_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1acfa6b93991e284f42e169c4c8a385c47" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_edit_text_inset_top_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1accae3fe1c865a24f227133d2dac25405" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_floating_window_z</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab332670b6e30e631f10ff4a528127bc6" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_list_item_padding_horizontal_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a914ada89825c7c1663ca3aae9d7a6aa4" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_panel_menu_list_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a08874f28d11cb5744580b8be52d69d94" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_progress_bar_height_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aa055d77421672c6bed96ede50d62e775" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_search_view_preferred_height</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8b4afb84e20ba03e19eb1fe0d80cee26" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_search_view_preferred_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af2ac60de61e4f9668391bfff4c259505" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_seekbar_track_background_height_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae475d311018047b6586e9c344313a103" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_seekbar_track_progress_height_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a851c5242d5d3054be5eb5cadaf6072da" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_select_dialog_padding_start_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab10a096d11fb546ef9a324c4f3d2eef5" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_switch_padding</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ade860f32e919ab986f9922bf27783def" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_body_1_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a58a27bc821bf2c3216d7d73d34baaa29" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_body_2_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8a79f691dca48b8d8e0ba38409415e36" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_button_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a62d9495c81b4d2e035cac50c99c47f17" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_caption_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a3aa6715458a20e3f4c3c0f95956a2c2f" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_display_1_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab546ee576caed8a8da91cd02917610c3" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_display_2_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a37013af9ec22530520695ff8477b8376" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_display_3_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae264826b9c05d78062be49074f6f6611" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_display_4_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac1965a770e6da9d9fb378b05515a4c92" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_headline_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a518c49453bda42e377199d4c22d879f5" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_large_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aff5d8474033f1a73e927d40902070292" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_medium_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a68c9ae1270ce553c0831702aa16e6e9f" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_menu_header_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1acd6279d4d5b599858f5d20a591cab642" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_menu_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af33a40c528f43515cc169cc0a303b3fc" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_small_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a044938ca5c2b10d39bf4fe21cc32ede8" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_subhead_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8d78b380577823958a781c76e28d3119" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_subtitle_material_toolbar</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a7e04767af59ea1d2014a606fca5ce032" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_title_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a03f4da40fe63cbf2c91ff36885b35867" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>abc_text_size_title_material_toolbar</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8dce7c3d1e30ab0e0f93425f2cb531b5" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>cardview_compat_inset_shadow</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad8570a0d2e590353a60a31d5bb7c2e3a" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>cardview_default_elevation</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1acb20b2cddbb6294fb1ae37219c25b49c" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>cardview_default_radius</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8e2ebcb35ea7458eb1e572cbc82ce571" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>compat_button_inset_horizontal_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad739741443282073a26d00972a7985e8" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>compat_button_inset_vertical_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af6529fd6c5afac7891ec9659f69dbc17" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>compat_button_padding_horizontal_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1afc0f86418fba628674c2d0f75a515b7e" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>compat_button_padding_vertical_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a2c1087a8d30f6fc08cf0e2c8c1f8d7ed" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>compat_control_corner_material</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a1ef785db9bc67fc505eaf76f7e89f755" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_appbar_elevation</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad8c284aa7b589997ca7b51dc26ad0f6a" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_navigation_active_item_max_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8c62d1e1b9c9c723755e3c88b9fa1878" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_navigation_active_text_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a2d5ac30d569d9f7ffecc6f81d7002df0" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_navigation_elevation</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a680df91ebcb190e098cf1c02f1f0db5f" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_navigation_height</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad1498c87a565462fec4ede9fd611a9d5" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_navigation_item_max_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a0fa52588bf1ec294af2d64a9c923b50c" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_navigation_item_min_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8a1647df0c0ae9e646df9c4adb182ecd" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_navigation_margin</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab235c7e7b5dac4822143120a3b8bd12e" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_navigation_shadow_height</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aa5f779eee03879338972178438f0c9a5" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_navigation_text_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a248ce570788e9bbeb407d940b57cecd5" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_sheet_modal_elevation</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1abdbeae34ef78684e10ae0d01b4d9ea5e" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_bottom_sheet_peek_height_min</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af87c30cbfecf3f75dc16c8834ef27af8" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_fab_border_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a74d8a77daaed7401c3ad5880758a085c" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_fab_elevation</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a14fab8b3ea0005ea72068e1f80e5ba17" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_fab_image_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae84a1860fb1b6260631aed80a2f9f866" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_fab_size_mini</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad9765ca115d39072d045c28713fb1097" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_fab_size_normal</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab271223051e965685d055d9d45c6a7c9" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_fab_translation_z_pressed</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a0878afb45849eb99fd4776cd78a23233" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_navigation_elevation</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a858e9842f6f00f31508b9eaf5750209e" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_navigation_icon_padding</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1abbca7d7a64ab22cd0d06bbee5c2eee2e" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_navigation_icon_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a322ef6a2e8fc48b886f9d1ffd2fd6a04" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_navigation_max_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a49f4a8459048a8aca8d7c278c5e2efc0" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_navigation_padding_bottom</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac54e4f859c7f910b99644248669c78ca" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_navigation_separator_vertical_padding</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a6875d866e271a3d66d3bc067084aadd2" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_snackbar_action_inline_max_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a50f55b2061ecb30a2941c837831dee03" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_snackbar_background_corner_radius</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a039eb5e2b54b889dd7db8f38a3cdc3ff" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_snackbar_elevation</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a21cd0e40623be1c6b64907a5324f58b0" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_snackbar_extra_spacing_horizontal</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a1d029da298ede86667b818e7378a9b68" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_snackbar_max_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af6f5b69dfad4927dbce16047b6f123cf" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_snackbar_min_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a0852fe1905bd1de16b92ce9bfca14dc0" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_snackbar_padding_horizontal</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aec995be8df2a198cf5ba30b607107eac" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_snackbar_padding_vertical</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad0ad2b3f201ab8fc70f923c0e28580c6" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_snackbar_padding_vertical_2lines</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a1630c11fb01f0c7b3fefd1d63063e38f" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_snackbar_text_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a41bc287c558c67207b57d01cc5dc3c83" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_tab_max_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad861a5b0b51ac317c13676b28041d914" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_tab_scrollable_min_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a800742c6fb9bda92c797f2c1acbb1a51" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_tab_text_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1afda207c6ed66eaa7ed111efb3eb72e69" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>design_tab_text_size_2line</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a6d31d22997bd41ff0c8e0d31fe975cb7" prot="private" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>Dimension</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a2a9528a3843d7b4f33a869975db7b492" prot="private" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>Dimension</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a674c6677e67cdf763e14878e96cd0d43" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>disabled_alpha_material_dark</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1abbeb1fbfc6c682006846b37ec671dff1" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>disabled_alpha_material_light</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8d467d5f88205acc04d93fcc24cbf859" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>fastscroll_default_thickness</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1acc2d87c569b4ec2d5179fcb8aadc8564" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>fastscroll_margin</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a4c2e9dec88ceb920da946ea80c1deefc" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>fastscroll_minimum_range</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a01da64242debd14cebeceb65d74dd2d5" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>highlight_alpha_material_colored</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a7293e6fd1d7f42b1d896bbb26398ec6f" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>highlight_alpha_material_dark</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ada4ca20752e01c5b89c6f954e58dd487" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>highlight_alpha_material_light</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a5c9dbec900e0ed6643ac8c812ed456ac" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>hint_alpha_material_dark</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a8c1f603a6da8ef2895a071c540b005b9" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>hint_alpha_material_light</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a7737b04a188c39850c21fd8190784b15" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>hint_pressed_alpha_material_dark</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a5b8e7f4afc2e07f3f18f6ef1f8793a6c" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>hint_pressed_alpha_material_light</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a53c83b98e07bad03cca4a963c5fd4e4c" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>item_touch_helper_max_drag_scroll_per_frame</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a386f5293588f03ab25ababb53330c4a0" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>item_touch_helper_swipe_escape_max_velocity</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a787dac0c8d8c9e4d8505489e3c6d4ca0" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>item_touch_helper_swipe_escape_velocity</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a7fcd59382c6f30bdc92b8d2ef1d73ff6" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>mr_controller_volume_group_list_item_height</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a88101c034c1f5f99a6a2b788057a9fc3" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>mr_controller_volume_group_list_item_icon_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a3aa95d97065601fceee137ca5ccc2a77" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>mr_controller_volume_group_list_max_height</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab2d49fa7b6ad32a33959b447bfe61c9a" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>mr_controller_volume_group_list_padding_top</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ada41247add963cf8df4a39517fd8569c" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>mr_dialog_fixed_width_major</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac5ce8f087d9fbc83c737ab54a40f475c" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>mr_dialog_fixed_width_minor</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a9a956291ae6faaa03ba2c88e25cd43d4" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_action_icon_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a919047a2fb450b5e9f72668f260b5fab" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_action_text_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a58087c18e9415f4ff9f997f706be6a98" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_big_circle_margin</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae2acbdbac232725bd5fc8a8788e91d5f" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_content_margin_start</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a815df1933af7864a343a4b177e4e8c70" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_large_icon_height</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a24446043f28273006ecbd52d4896d3aa" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_large_icon_width</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aed3fdb8d576494212f3b5bc59239e7a8" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_main_column_padding_top</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae938cd556667ca6c3f6aca138e375e82" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_media_narrow_margin</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a0b1ec1611ec7299ed55ccf4b76b28dd6" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_right_icon_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a334f4e7bbd3f569802976645aaaf5c6a" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_right_side_padding_top</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1af2008b5e6fb14ef4091601001edf0e87" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_small_icon_background_padding</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a90a33b06b9a1d917e4875fd4f9e1e63f" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_small_icon_size_as_large</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a23265817c7fcc388088bf688aa7d8184" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_subtext_size</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae94d990a2b5c4c55e93cf011ba952949" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_top_pad</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ac8b95376899c3f67dd3baa142a50b499" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>notification_top_pad_large_text</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1aaf57f3b113b0679a8a88383c0ea64798" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>tooltip_corner_radius</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ae8b1fb8b316f81449a2071c6c77f5075" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>tooltip_horizontal_padding</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ad7e6f15fe5ed3e76820c2fdf31a1374d" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>tooltip_margin</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab31628c2b6adc481f28734a712bf0866" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>tooltip_precise_anchor_extra_offset</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a849d6b4840d0cc8269316eb010131338" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>tooltip_precise_anchor_threshold</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1ab13166bcc023723024d875a819e26087" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>tooltip_vertical_padding</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a52e5d601d499d7572e80eef9b1c686e5" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>tooltip_y_offset_non_touch</name></member>
+      <member refid="class_coursework_1_1_droid_1_1_resource_1_1_dimension_1a06b8823bfb4c0b70a64e0bee9808f71d" prot="public" virt="non-virtual"><scope>Coursework::Droid::Resource::Dimension</scope><name>tooltip_y_offset_touch</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

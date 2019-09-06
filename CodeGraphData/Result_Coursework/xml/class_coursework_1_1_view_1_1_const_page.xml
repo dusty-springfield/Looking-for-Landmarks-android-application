@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.8.6">
+  <compounddef id="class_coursework_1_1_view_1_1_const_page" kind="class" prot="public">
+    <compoundname>Coursework::View::ConstPage</compoundname>
+    <basecompoundref prot="public" virt="non-virtual">ContentPage</basecompoundref>
+      <sectiondef kind="property">
+      <memberdef kind="property" id="class_coursework_1_1_view_1_1_const_page_1ad8433389f5bd39e9762f828d0665447a" prot="public" static="no" readable="no" writable="no" gettable="yes" settable="yes">
+        <type><ref refid="class_coursework_1_1_view_model_1_1_construction" kindref="compound">Construction</ref></type>
+        <definition>Construction Coursework.View.ConstPage.Item</definition>
+        <argsstring></argsstring>
+        <name>Item</name>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/View/ConstPage.xaml.cs" line="18" column="1" bodyfile="C:/Coursework/Coursework/Coursework/View/ConstPage.xaml.cs" bodystart="18" bodyend="-1"/>
+      </memberdef>
+      </sectiondef>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="class_coursework_1_1_view_1_1_const_page_1aa0264164093631e7edae6276e00eaed5" prot="public" static="no" const="no" explicit="no" inline="yes" virt="non-virtual">
+        <type></type>
+        <definition>Coursework.View.ConstPage.ConstPage</definition>
+        <argsstring>(Construction item)</argsstring>
+        <name>ConstPage</name>
+        <param>
+          <type><ref refid="class_coursework_1_1_view_model_1_1_construction" kindref="compound">Construction</ref></type>
+          <declname>item</declname>
+        </param>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Coursework/Coursework/Coursework/View/ConstPage.xaml.cs" line="20" column="1" bodyfile="C:/Coursework/Coursework/Coursework/View/ConstPage.xaml.cs" bodystart="20" bodyend="27"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="11">
+        <label>Coursework.View.ConstPage</label>
+        <link refid="class_coursework_1_1_view_1_1_const_page"/>
+        <childnode refid="12" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="12">
+        <label>ContentPage</label>
+      </node>
+    </inheritancegraph>
+    <collaborationgraph>
+      <node id="13">
+        <label>Coursework.View.ConstPage</label>
+        <link refid="class_coursework_1_1_view_1_1_const_page"/>
+        <childnode refid="14" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="14">
+        <label>ContentPage</label>
+      </node>
+    </collaborationgraph>
+    <location file="C:/Coursework/Coursework/Coursework/View/ConstPage.xaml.cs" line="16" column="1" bodyfile="C:/Coursework/Coursework/Coursework/View/ConstPage.xaml.cs" bodystart="15" bodyend="28"/>
+    <listofallmembers>
+      <member refid="class_coursework_1_1_view_1_1_const_page_1aa0264164093631e7edae6276e00eaed5" prot="public" virt="non-virtual"><scope>Coursework::View::ConstPage</scope><name>ConstPage</name></member>
+      <member refid="class_coursework_1_1_view_1_1_const_page_1ad8433389f5bd39e9762f828d0665447a" prot="public" virt="non-virtual"><scope>Coursework::View::ConstPage</scope><name>Item</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ffimageloading="clr-namespace:FFImageLoading.Forms;assembly=FFImageLoading.Forms"
+             xmlns:viewmodel="clr-namespace:Coursework.ViewModel"
+             x:Class="Coursework.View.MainPage"
+             x:Name="This">
+
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Icon="baseline_map_white_24.png" Order="Primary" Priority="0" Clicked="BtnOnMap_Clicked"/>
+        <ToolbarItem Icon="baseline_done_all_white_24.png" Text="{Binding Resources[Visited]}" Order="Secondary" Priority="0" Clicked="ShowVisited"/>
+        <ToolbarItem Icon="baseline_star_white_24.png" Text="{Binding Resources[Favorite]}" Order="Secondary" Priority="1" Clicked="ShowFavorite"/>
+        <ToolbarItem Icon ="baseline_home_white_24.png" Text="{Binding Resources[Nearest]}" Order="Secondary" Priority="2" Clicked="ShowNearest" />
+    </ContentPage.ToolbarItems>
+
+
+    <StackLayout>
+        <ListView x:Name="constView"  RowHeight="340" ItemSelected="ConstListView_ItemSelected" IsPullToRefreshEnabled="True"  
+                  RefreshCommand="RefreshCommand" SeparatorVisibility="None">
+
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Frame Padding="4" Margin="4" BorderColor="#E1E1E1" CornerRadius="3">
+                            <StackLayout Orientation="Vertical" Margin="4" >
+                                <ffimageloading:CachedImage  LoadingPlaceholder="..."  DownsampleToViewSize="True" Source="{Binding Image}" Aspect="AspectFill" HeightRequest="250"/>
+                                <Grid>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                        <RowDefinition Height="Auto" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="70*" />
+                                        <ColumnDefinition Width="21*" />
+                                        <ColumnDefinition Width="9*" />
+                                    </Grid.ColumnDefinitions>
+                                    <viewmodel:CustomLabel  Text="{Binding Name}" HorizontalOptions="FillAndExpand" MaxLines="2" LineBreakMode="WordWrap" 
+                                       Grid.Row="0" Grid.Column="0"/>
+                                    <viewmodel:CustomLabel  Text="{
+                                    Binding Distance,
+                                    StringFormat=' {0:F2} '
+                                    }" HorizontalOptions="End" 
+                                       Grid.Row="0" Grid.Column="1"/>
+                                    <viewmodel:CustomLabel  Text="{Binding Source={x:Reference This}, Path=BindingContext.Resources[km]}" HorizontalOptions="Start" 
+                                       Grid.Row="0" Grid.Column="2"/>
+                                    <viewmodel:CustomLabel Text="{Binding Address}" Grid.Row="1" Grid.Column="0"/>
+                                </Grid>
+
+                            </StackLayout>
+                        </Frame>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+            <ListView.Footer>
+                <Button x:Name="btnMore" Text="{Binding Resources[MoreButton]}"  Clicked="MoreBtn_Clicked"/>
+            </ListView.Footer>
+        </ListView>
+
+    </StackLayout>
+</ContentPage>

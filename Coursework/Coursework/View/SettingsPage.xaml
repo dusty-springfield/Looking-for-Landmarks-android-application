@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:renderers="clr-namespace:Coursework.ViewModel"
+             x:Class="Coursework.View.SettingsPage"
+             x:Name="Page"
+             Title="{Binding Resources[Settings]}">
+
+    <ContentPage.Content>
+        <StackLayout>
+
+            <TableView Intent="Settings">
+                <TableRoot>
+                    <TableSection Title="{Binding Resources[MainPage]}">
+                        <SwitchCell x:Name="showVisitedSwitchCell" Text="{Binding Resources[ShowVisited]}"
+                                    OnChanged="ShowVisitedSwitchCell_OnChanged"/>
+                        <ViewCell>
+                            <Grid VerticalOptions="CenterAndExpand" >
+                                <Grid.RowDefinitions>
+
+                                    <RowDefinition Height="Auto"/>
+
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="4*" />
+                                    <ColumnDefinition Width="81*" />
+                                    <ColumnDefinition Width="14*" />
+                                    <ColumnDefinition Width="1*" />
+
+                                </Grid.ColumnDefinitions>
+                                <renderers:CustomLabel  Text="{Binding Resources[ItemsOnPage]}" HorizontalOptions="Start"
+                                       VerticalOptions="CenterAndExpand"
+                                       Grid.Row="0" Grid.Column="1"/>
+                                <renderers:CustomPicker x:Name="itemsOnPagePicker" HorizontalOptions="Fill" VerticalOptions="Fill"
+                                       Grid.Row="0" Grid.Column="2" CancelButtonText="{Binding Resources[Cancel]}"  
+                                                        DoneButtonText="{Binding Resources[Confirm]}"
+                                                        SelectedIndexChanged="ItemsOnPagePicker_SelectedIndexChanged">
+                                    <renderers:CustomPicker.Items>
+                                        <x:String>4</x:String>
+                                        <x:String>6</x:String>
+                                        <x:String>8</x:String>
+                                        <x:String>12</x:String>
+                                        <x:String>15</x:String>
+                                    </renderers:CustomPicker.Items>
+
+                                </renderers:CustomPicker>
+
+                            </Grid>
+                        </ViewCell>
+                        <ViewCell>
+                            <Grid VerticalOptions="CenterAndExpand" >
+                                <Grid.RowDefinitions>
+
+                                    <RowDefinition Height="Auto"/>
+
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="4*" />
+                                    <ColumnDefinition Width="81*" />
+                                    <ColumnDefinition Width="14*" />
+                                    <ColumnDefinition Width="1*" />
+
+                                </Grid.ColumnDefinitions>
+                                <renderers:CustomLabel  Text="{Binding Resources[MaxSearchResult]}" HorizontalOptions="Start"
+                                       VerticalOptions="CenterAndExpand"
+                                       Grid.Row="0" Grid.Column="1"/>
+                                <renderers:CustomPicker x:Name="maxSearchResultPicker" HorizontalOptions="Fill" VerticalOptions="Fill"
+                                       Grid.Row="0" Grid.Column="2" 
+                                                         CancelButtonText="{Binding Resources[Cancel]}"  
+                                                         DoneButtonText="{Binding Resources[Confirm]}" 
+                                                         SelectedIndexChanged="MaxSearchResultPicker_SelectedIndexChanged">
+                                    <renderers:CustomPicker.Items>
+                                        <x:String>10</x:String>
+                                        <x:String>15</x:String>
+                                        <x:String>20</x:String>
+                                        <x:String>25</x:String>
+                                        <x:String>30</x:String>
+                                    </renderers:CustomPicker.Items>
+                                </renderers:CustomPicker>
+                            </Grid>
+                        </ViewCell>
+                    </TableSection>
+                    <TableSection  Title="{Binding Resources[General]}">
+                        <ViewCell>
+                            <Grid VerticalOptions="CenterAndExpand" >
+                                <Grid.RowDefinitions>
+
+                                    <RowDefinition Height="Auto"/>
+
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="4*" />
+                                    <ColumnDefinition Width="71*" />
+                                    <ColumnDefinition Width="24*" />
+                                    <ColumnDefinition Width="1*" />
+                                </Grid.ColumnDefinitions>
+                                <renderers:CustomLabel  Text="{Binding Resources[Language]}" HorizontalOptions="Start"
+                                       VerticalOptions="CenterAndExpand"
+                                       Grid.Row="0" Grid.Column="1"/>
+                                <renderers:CustomPicker x:Name="languagePicker"  HorizontalOptions="Fill" VerticalOptions="Fill"
+                                       Grid.Row="0" Grid.Column="2" CancelButtonText="{Binding Resources[Cancel]}"  DoneButtonText="{Binding Resources[Confirm]}"
+                                                        SelectedIndexChanged="LanguagePicker_SelectedIndexChanged">
+                                </renderers:CustomPicker>
+                            </Grid>
+                        </ViewCell>
+                        <TextCell Text="{Binding Resources[ClearFavorite]}" Tapped="OnClearFavorite"/>
+                        <TextCell   Text="{Binding Resources[ClearVisited]}" Tapped="OnClearVisited"/>
+                    </TableSection>
+                </TableRoot>
+            </TableView>
+        </StackLayout>
+    </ContentPage.Content>
+    </ContentPage>
